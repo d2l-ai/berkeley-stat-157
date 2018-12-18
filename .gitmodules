@@ -1,0 +1,3 @@
+[submodule "mx-theme"]
+	path = mx-theme
+	url = https://github.com/mli/mx-theme

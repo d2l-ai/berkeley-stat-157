@@ -1,0 +1,8 @@
+name: berkeley-stat-157
+dependencies:
+- python=3.6
+- jupyter=1.0.0
+- sphinx=1.8.2
+- pip:
+  - recommonmark==0.4.0
+  - awscli

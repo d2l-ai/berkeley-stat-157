@@ -1,13 +1,9 @@
-STAT 157: Introduction to Deep Learning
-=======================================
+# STAT 157: Introduction to Deep Learning
 
 UC Berkeley, Spring, 2019
 
 
-Practical information
----------------------
-
-
+# Practical information
 
 - Lectures: TBD
 - Location: TBD
@@ -18,8 +14,7 @@ Practical information
 - Grading Policy: TBD
 - Office hours:
 
-Overview
---------
+# Overview
 
 This class provides a practical introduction to deep learning, including
 theoretical motivations and how to implement it in practice. As part of the
@@ -38,57 +33,15 @@ quickly. Supporting material can be found at https://diveintodeeplearning.org.
 Calendar
 --------
 
-.. list-table::
-   :widths: 20 40 40
-   :header-rows: 1
-
-   * - Time
-     - Topic
-     - Details
-   * - hehe
-     - haha
-     - haha
-   * - hehe
-     - haha
-     - haha
-
-
 Homeworks
 ---------
 
-.. list-table::
-   :widths: 10 20 40 30
-   :header-rows: 1
-
-
-   * - Count
-     - Due date
-     - Topic
-     - Details
-   * - 1
-     - Jan 26
-     - Hourse price modeling
-     - `notebook <.>`_
-
-Units
------
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   syllabus
-   calendar
-   homework
-   project
-   faq
-   units/index
 
 Prerequisites
 -------------
 
 Please visit the `Forum <https://discuss.mxnet.io/c/courses>`_  for
-more stuff 
+more stuff
 
 Programming in Python (CS 61a or CS/STAT C8 and CS 88), linear algebra (MATH 54,
 STAT 89A, or EE 16A), probability (STAT 134, STAT 140, or EE 126), and
@@ -105,3 +58,18 @@ office hours by the instructors and TAs. Evaluation is based on a midterm exam
 be presented in lieu of an end-of-course exam. The research project is evaluated
 via organization (10%), mid-project report (15%), presentation (15%), report
 (20%).
+
+```eval_rst
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   syllabus
+   calendar
+   homework
+   project
+   faq
+   units/index
+
+```

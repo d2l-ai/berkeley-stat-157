@@ -1,18 +1,20 @@
-# STAT 157: Introduction to Deep Learning
+# Introduction to Deep Learning
 
-UC Berkeley, Spring, 2019
+**STAT 157, UC Berkeley, Spring, 2019**
 
 
 ## Practical information
 
-- Lectures: TBD
-- Location: TBD
-- Recitations: TBD
-- Location: TBD
-- Instructor: Alex Smola, Mu Li
-- TAs: TBD
-- Grading Policy: TBD
-- Office hours:
+
+| Key | Value |
+|---|---|
+| Lectures | Every Tuesday/Thursday 3:30pm - 5:00pm |
+| Location | [LeConte 3](https://confluence.ets.berkeley.edu/confluence/display/CL/3+LeConte) |
+| Instructor | [Alex Smola](https://alex.smola.org), and [Mu Li](https://github.com/mli) |
+| TAs | TBD |
+| Office Hours | Thursday, 1:00 - 3:00pm |
+| Locations | Evans Hall |
+| Grading Policy | Homework 30%, Midterm 20%, Project 50% |
 
 ## Overview
 

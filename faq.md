@@ -10,7 +10,7 @@ We will also be available at the UC Berkeley campus on both days from 12 pm onwa
 
 There are weekly assignments. We strongly discourage you from copying solutions of your fellow students since you're depriving yourself of the experience of learning how to solve the problems on your own. In particular you won't learn useful things for the exams and projects this way. Or for that matter, from the course. That said, you *should* discuss the solutions with others. You will likely benefit from that.
 
-Assignments are due on Tuesdays. You must hand in the assignments by the end of the lecture, i.e. by 5pm, either in paper or by e-mail to [stat-157-2019@gmail.com](mailto://stat-157-2019@gmail.com). 
+Assignments are due on Tuesdays. You must hand in the assignments by the end of the lecture, i.e. by 5pm, either in paper or by e-mail to [stat-157-2019@gmail.com](mailto://berkeley-stat-157@googlegroups.com). 
 
 * Set 1 - **January 29, 2019**
 * Set 2 - **February 5, 2019**

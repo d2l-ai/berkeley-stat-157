@@ -3,6 +3,8 @@ set -e
 
 git submodule update --init
 conda env update -f environment.yml
+# you may need to change to
+# source activate berkeley-stat-157
 conda activate berkeley-stat-157
 
 make html

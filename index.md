@@ -3,7 +3,7 @@
 UC Berkeley, Spring, 2019
 
 
-# Practical information
+## Practical information
 
 - Lectures: TBD
 - Location: TBD
@@ -14,7 +14,7 @@ UC Berkeley, Spring, 2019
 - Grading Policy: TBD
 - Office hours:
 
-# Overview
+## Overview
 
 This class provides a practical introduction to deep learning, including
 theoretical motivations and how to implement it in practice. As part of the
@@ -31,7 +31,7 @@ entire course is based on Jupyter notebooks to allow students to gain experience
 quickly. Supporting material can be found at https://diveintodeeplearning.org.
 
 
-# Prerequisites
+## Prerequisites
 
 Programming in Python (CS 61a or CS/STAT C8 and CS 88), linear algebra (MATH 54,
 STAT 89A, or EE 16A), probability (STAT 134, STAT 140, or EE 126), and
@@ -39,7 +39,7 @@ statistics (STAT 20, STAT 135, or CS/STAT C100).
 
 
 
-# Course Format
+## Course Format
 
 The course consists of 2 units of 90 minutes, taught by the instructors, plus
 office hours by the instructors and TAs. Evaluation is based on a midterm exam

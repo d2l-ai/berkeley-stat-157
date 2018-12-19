@@ -1,5 +1,7 @@
 # Calendar
 
+Lectures are from January 22, 2019 until May 9, 2019. 
+
 ## Meeting Hours
 
 | Time                  | Event        | Location   |

@@ -79,6 +79,7 @@ Units
 
    syllabus
    calendar
+   homework
    project
    faq
    units/index

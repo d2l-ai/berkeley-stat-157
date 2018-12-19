@@ -135,7 +135,8 @@ html_theme_options = {
         ('Syllabus', '.', True, 'fas fa-calendar-alt'),
         ('Github', 'https://github.com/diveintodeeplearning/berkeley-stat-157', True, 'fab fa-github'),
     ],
-    'show_footer': True
+    'show_footer': True,
+    'fixed_drawer': False,
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme

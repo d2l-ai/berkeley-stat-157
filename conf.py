@@ -136,7 +136,6 @@ html_theme_options = {
         ('Github', 'https://github.com/diveintodeeplearning/berkeley-stat-157', True, 'fab fa-github'),
     ],
     'show_footer': True,
-    'fixed_drawer': False,
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme

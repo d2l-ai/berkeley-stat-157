@@ -70,6 +70,15 @@ Homeworks
      - Hourse price modeling
      - `notebook <.>`_
 
+Units
+-----
+
+.. toctree::
+   :maxdepth: 1
+
+   units/introduction
+   units/crashcourse
+
 Prerequisites
 -------------
 

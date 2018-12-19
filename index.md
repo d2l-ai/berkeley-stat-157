@@ -30,18 +30,9 @@ understanding and good ability to build modern nonparametric estimators. The
 entire course is based on Jupyter notebooks to allow students to gain experience
 quickly. Supporting material can be found at https://diveintodeeplearning.org.
 
-Calendar
---------
-
-Homeworks
----------
-
 
 Prerequisites
 -------------
-
-Please visit the `Forum <https://discuss.mxnet.io/c/courses>`_  for
-more stuff
 
 Programming in Python (CS 61a or CS/STAT C8 and CS 88), linear algebra (MATH 54,
 STAT 89A, or EE 16A), probability (STAT 134, STAT 140, or EE 126), and

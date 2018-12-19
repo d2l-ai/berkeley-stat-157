@@ -2,13 +2,14 @@
 
 Homepage for STAT 157 at UC Berkeley
 
-## How to build
+[![Build Status](http://ci.diveintodeeplearning.org/job/berkeley-stat-157/job/master/badge/icon)](http://ci.diveintodeeplearning.org/job/berkeley-stat-157/job/master/)
 
-- Local build: `bash build/build.sh`, all HTMLs will be in the folder `build/_build/html`
-- CI is enabled:
-  [![Status](http://ci.diveintodeeplearning.org/job/berkeley-stat-157/job/master/badge/icon)](http://ci.diveintodeeplearning.org/job/berkeley-stat-157/job/master/). Every
-  commit into the master branch will be pushed into the website automatically.
+## How to build locally
 
+- Install [conda](https://conda.io/miniconda.html)
+- Run `bash build/build.sh`
+
+All HTMLs will be in the folder `build/_build/html`
 
 ## How to use it for your own class
 

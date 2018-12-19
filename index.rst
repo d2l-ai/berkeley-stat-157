@@ -76,13 +76,12 @@ Units
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
 
    faq
    calendar
    project
-   
-   units/introduction
-   units/crashcourse
+   units/index
 
 Prerequisites
 -------------
@@ -102,9 +101,3 @@ office hours by the instructors and TAs. Evaluation is based on a midterm exam
 be presented in lieu of an end-of-course exam. The research project is evaluated
 via organization (10%), mid-project report (15%), presentation (15%), report
 (20%).
-
-.. raw:: html
-
-   <style>.page-content
-   table:not(.footnote):not(.indextable):not(.hlist):not(.option-list):not(.field-list)
-   {margin: 1.5rem 0; }</style>

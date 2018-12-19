@@ -15,4 +15,4 @@ All HTMLs will be in the folder `build/_build/html`
 2. Edit the markdowns files
 3. Edit the `build/conf.py` for meta data
 4. Build it through `bash build/build.sh`
-5. Upload HTML to a place
+5. Upload HTML to a hosting server

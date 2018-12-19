@@ -6,6 +6,7 @@ stage("Build & Publish") {
       sh """#!/bin/bash
       set -ex
       if [[ ${env.BRANCH_NAME} == master ]]; then
+          conda activate berkeley-stat-157
           ./upload.sh
       fi
       """

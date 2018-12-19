@@ -6,11 +6,21 @@ The class is held on Tuesday and Thursday afternoons 3:30-5:00 pm in 3 [LeConte 
 
 We will also be available at the UC Berkeley campus on both days from 12 pm onwards and, traffic and schedule permitting, also earlier. Office hours are notionally Thursdays from 1-3pm. If you want to arrange for meetings outside that time, please let us know beforehand to make sure that we're around. If it's really important you can also meet us in the Amazon Palo Alto office on the other days of the week (you will need to make an appointment with our administrator prior to that and our schedules tend to be packed, so Tuesdays and Thursdays are much preferred).
 
+## Grading
+
+This course is heavy on hands-on experience. Hence the project carries a significant weight. Here's the overall breakdown of the grades:
+
+|Component|Weight|
+|---------|-----|
+|Homework | 30% |
+|Midterm  | 20% |
+|Project  | 50% |
+
 ## Assignments
 
 There are weekly assignments. We strongly discourage you from copying solutions of your fellow students since you're depriving yourself of the experience of learning how to solve the problems on your own. In particular you won't learn useful things for the exams and projects this way. Or for that matter, from the course. That said, you *should* discuss the solutions with others. You will likely benefit from that.
 
-Assignments are due on Tuesdays. You must hand in the assignments by the end of the lecture, i.e. by 5pm, either in paper or by e-mail to [stat-157-2019@gmail.com](mailto://berkeley-stat-157@googlegroups.com). 
+Assignments are due on Tuesdays. You must hand in the assignments by the end of the lecture, i.e. by 5pm, either in paper or by e-mail to [stat-157-2019@gmail.com](mailto://berkeley-stat-157@googlegroups.com). Programming assignments are to be submitted as Jupyter Notebooks **with their execution traces saved**. 
 
 * Set 1 - **January 29, 2019**
 * Set 2 - **February 5, 2019**

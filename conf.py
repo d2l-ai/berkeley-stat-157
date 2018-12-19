@@ -61,7 +61,7 @@ source_suffix = ['.rst', '.ipynb', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'STAT 157, SP19'
+project = 'STAT 157, Spring 19'
 copyright = '2018--2019, Contributors'
 author = "All contributors"
 
@@ -133,7 +133,9 @@ html_theme_options = {
     'accent_color': 'deep_orange',
     'header_links' : [
         # ('Staff', '.', True, 'fas fa-users'),
-        ('Syllabus', '.', True, 'fas fa-calendar-alt'),
+        ('Syllabus', 'syllabus.html', True, 'fas fa-list-ul'),
+        ('Video', 'https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW', True, 'fas fa-video'),
+        ('Forum', 'https://discuss.mxnet.io/c/courses', True, 'fas fa-user-tie'),
         ('Github', 'https://github.com/diveintodeeplearning/berkeley-stat-157', True, 'fab fa-github'),
     ],
     'show_footer': True,

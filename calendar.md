@@ -1,6 +1,6 @@
 # Calendar
 
-## Timing
+## Meeting Hours
 
 | Time                  | Event        | Location   |
 |-----------------------|--------------|------------|

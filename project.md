@@ -8,8 +8,7 @@ The project is really the centerpiece of this class. It is your opportunity to t
 * We've seen students put off any meaningful research until the
   end. This is why there's a public midterm presentation on **March 5,
   2019**. This counts **20%** of the score. You must produce between 1
-  and 2 pages of a document. Style files are
-  [here](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles).
+  and 2 pages of a document. Style files are [here](media/latex.zip)
 * We've seen students not ask for advice from TAs. This is why you now
   must get signoff from your TA at least once before the final
   presentation. You need to meet them at least once, at the latest in
@@ -17,13 +16,12 @@ The project is really the centerpiece of this class. It is your opportunity to t
 * Project presentations are due on **May 7 and 9, 2019**. We picked
   two days to ensure that there's enough time for everyone to present
   their stuff.
-	  * The written project report counts **30%** and it needs to have
-        at least 6 pages using the same
-        [style file](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles). The
-        upper page limit is 20, including appendix, details, etc.;
-        This is to protect the TAs from going crazy with reviewing and
-        grading.
-	  * The presentation counts **30%** of the project. You need to have at least 6 slides and no more than 20 slides in your presentation. 
+* The written project report counts **30%** and it needs to have at
+  least 6 pages using the same [style file](media/latex.zip). The
+  upper page limit is 20, including appendix, details, etc.; This is
+  to protect the TAs from going crazy with reviewing and grading.
+* The presentation counts **30%** of the project. You need to have at
+  least 6 slides and no more than 20 slides in your presentation.
 
 This is a *teamwork* effort and *you must form a team*. The project
 contributes the lion's share to your grades. We will take the number

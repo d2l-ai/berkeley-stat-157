@@ -35,7 +35,6 @@ understanding and good ability to build modern nonparametric estimators. The
 entire course is based on Jupyter notebooks to allow students to gain experience
 quickly. Supporting material can be found at https://diveintodeeplearning.org.
 
-
 Calendar
 --------
 
@@ -78,13 +77,17 @@ Units
    :maxdepth: 1
    :hidden:
 
-   faq
+   syllabus
    calendar
    project
+   faq
    units/index
 
 Prerequisites
 -------------
+
+Please visit the `Forum <https://discuss.mxnet.io/c/courses>`_  for
+more stuff 
 
 Programming in Python (CS 61a or CS/STAT C8 and CS 88), linear algebra (MATH 54,
 STAT 89A, or EE 16A), probability (STAT 134, STAT 140, or EE 126), and
@@ -97,7 +100,7 @@ Course Format
 
 The course consists of 2 units of 90 minutes, taught by the instructors, plus
 office hours by the instructors and TAs. Evaluation is based on a midterm exam
-(25%), homework (30%), attendance (5%), and a research project (60%) which will
+(20%), homework (30%), attendance (5%), and a research project (60%) which will
 be presented in lieu of an end-of-course exam. The research project is evaluated
 via organization (10%), mid-project report (15%), presentation (15%), report
 (20%).

@@ -3,7 +3,8 @@
 ```eval_rst
 
 .. toctree::
-
+   :maxdepth: 1
+   
    introduction
    probability
    arrays

@@ -1,5 +1,6 @@
-Units
-=====
+# Units
+
+```eval_rst
 
 .. toctree::
 
@@ -27,4 +28,5 @@ Units
    adam
    parallel
    imagenet
-   
+```
+

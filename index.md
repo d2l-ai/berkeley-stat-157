@@ -1,21 +1,19 @@
-Introduction to Deep Learning
-=======================================
+# Introduction to Deep Learning
+**STAT 157, UC Berkeley, Spring, 2019**
 
-UC Berkeley, Spring, 2019
+## Practical information
 
+| Key | Value |
+|---|---|
+| Lectures | Every Tuesday/Thursday 3:30pm - 5:00pm |
+| Location | [LeConte 3](https://confluence.ets.berkeley.edu/confluence/display/CL/3+LeConte) |
+| Instructor | [Alex Smola](https://alex.smola.org), and [Mu Li](https://github.com/mli) |
+| TAs | TBD |
+| Office Hours | Thursday, 1:00 - 3:00pm |
+| Locations | Evans Hall |
+| Grading Policy | Homework 30%, Midterm 20%, Project 50% |
 
-Practical information
----------------------
-
-- Lectures: Tuesday and Thursday, 3:30-5:00pm
-- Location: LeConte 3
-- Instructors: `Alex Smola <http://alex.smola.org>`_, `Mu Li <https://github.com/mli>`_
-- TAs: TBD
-- Grading Policy: 50% project, 30% homework, 20% midterm
-- Office hours: Thursday, 1:00-3:00p
-
-Overview
---------
+## Overview
 
 This class provides a practical introduction to deep learning, including
 theoretical motivations and how to implement it in practice. As part of the
@@ -31,58 +29,44 @@ understanding and good ability to build modern nonparametric estimators. The
 entire course is based on Jupyter notebooks to allow students to gain experience
 quickly. Supporting material can be found at https://diveintodeeplearning.org.
 
+## Prerequisites
 
-Homeworks
----------
+Programming in Python (CS 61a or CS/STAT C8 and CS 88), Linear Algebra (MATH 54,
+STAT 89A, or EE 16A), Probability (STAT 134, STAT 140, or EE 126), and
+Statistics (STAT 20, STAT 135, or CS/STAT C100) are highly
+desirable. Eqivalent knowledge is fine, and we will try to make the
+class as self-contained as possible. *This is a class where you need
+to get your hands dirty with programming.* 
 
-.. list-table::
-   :widths: 10 20 40 30
-   :header-rows: 1
+## Course Format
 
-   * - Set
-     - Due date
-     - Problems
-     - Solutions 
-   * - 1
-     - 1/29/2019
-     -
-     - 
-   * - 2
-     - 2/5/2019
-     -
-     - 
-   * - 3
-     - 2/12/2019
-     -
-     - 
-   * - 4
-     - 2/19/2019
-     -
-     - 
-   * - 5
-     - 2/26/2019
-     -
-     - 
-   * - 6
-     - 3/12/2019
-     -
-     - 
-   * - 7
-     - 4/2/2019
-     -
-     - 
-   * - 8
-     - 4/9/2019
-     -
-     - 
-   * - 9
-     - 4/16/2019
-     -
-     - 
-   * - 10
-     - 4/30/2019 
-     -
-     - 
+The course consists of 2 units of 90 minutes, taught by the
+instructors, plus office hours by the instructors and TAs. Evaluation
+is based on a midterm exam (20%), homework (30%), and a research
+project (50%) which will be presented in lieu of an end-of-course
+exam. The research project is evaluated via organization (10% each for
+registering on time and talking to the TAs), mid-project report (20%),
+presentation (30%) and final report (30%). As part of the course you
+will be performing work that's similar to research leading up to a
+paper.
+
+## Assignments
+
+| Set | Due date  | Problems | Solutions |
+|-----|-----------|----------|-----------|
+| 1   | 1/29/2019 | | |
+| 2   | 2/5/2019  | | |
+| 3   | 2/12/2019 | | |
+| 4   | 2/19/2019 | | |
+| 5   | 2/26/2019 | | |
+| 6   | 3/12/2019 | | |
+| 7   | 4/2/2019  | | |
+| 8   | 4/9/2019  | | |
+| 9   | 4/16/2019 | | |
+| 10  | 4/30/2019 | | |
+
+
+```eval_rst
 
 .. toctree::
    :maxdepth: 1
@@ -94,27 +78,4 @@ Homeworks
    project
    faq
    units/index
-
-Prerequisites
--------------
-
-Programming in Python (CS 61a or CS/STAT C8 and CS 88), Linear Algebra (MATH 54,
-STAT 89A, or EE 16A), Probability (STAT 134, STAT 140, or EE 126), and
-Statistics (STAT 20, STAT 135, or CS/STAT C100) are highly
-desirable. Eqivalent knowledge is fine, and we will try to make the
-class as self-contained as possible. *This is a class where you need
-to get your hands dirty with programming.* 
-
-
-Course Format
--------------
-
-The course consists of 2 units of 90 minutes, taught by the
-instructors, plus office hours by the instructors and TAs. Evaluation
-is based on a midterm exam (20%), homework (30%), and a research
-project (50%) which will be presented in lieu of an end-of-course
-exam. The research project is evaluated via organization (10% each for
-registering on time and talking to the TAs), mid-project report (20%),
-presentation (30%) and final report (30%). As part of the course you
-will be performing work that's similar to research leading up to a
-paper.
+```

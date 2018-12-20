@@ -23,16 +23,18 @@ Assignments are due on Tuesdays.
 
 As we proceed, we'll be filling in details. In terms of solutions we'll take the liberty to reuse some of your submissions as reference solutions (unless you tell us otherwise). 
 
-* Set 1 - **January 29, 2019**
-* Set 2 - **February 5, 2019**
-* Set 3 - **February 12, 2019**
-* Set 4 - **February 19, 2019**
-* Set 5 - **February 26, 2019**
-* Set 6 - **March 12, 2019**
-* Set 7 - **April 2, 2019**
-* Set 8 - **April 9, 2019**
-* Set 9 - **April 16, 2019**
-* Set 10 - **April 30, 2019**
+| Set | Due date  | Problems | Solutions |
+|-----|-----------|----------|-----------|
+| 1   | 1/29/2019 | | |
+| 2   | 2/5/2019  | | |
+| 3   | 2/12/2019 | | |
+| 4   | 2/19/2019 | | |
+| 5   | 2/26/2019 | | |
+| 6   | 3/12/2019 | | |
+| 7   | 4/2/2019  | | |
+| 8   | 4/9/2019  | | |
+| 9   | 4/16/2019 | | |
+| 10  | 4/30/2019 | | |
 
 ### Grading
 

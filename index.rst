@@ -1,4 +1,4 @@
-STAT 157: Introduction to Deep Learning
+Introduction to Deep Learning
 =======================================
 
 UC Berkeley, Spring, 2019
@@ -7,16 +7,12 @@ UC Berkeley, Spring, 2019
 Practical information
 ---------------------
 
-
-
-- Lectures: TBD
-- Location: TBD
-- Recitations: TBD
-- Location: TBD
-- Instructor: Alex Smola, Mu Li
+- Lectures: Tuesday and Thursday, 3:30-5:00pm
+- Location: LeConte 3
+- Instructors: `Alex Smola <http://alex.smola.org>`_, `Mu Li <https://github.com/mli>`_
 - TAs: TBD
-- Grading Policy: TBD
-- Office hours:
+- Grading Policy: 50% project, 30% homework, 20% midterm
+- Office hours: Thursday, 1:00-3:00p
 
 Overview
 --------
@@ -35,23 +31,6 @@ understanding and good ability to build modern nonparametric estimators. The
 entire course is based on Jupyter notebooks to allow students to gain experience
 quickly. Supporting material can be found at https://diveintodeeplearning.org.
 
-Calendar
---------
-
-.. list-table::
-   :widths: 20 40 40
-   :header-rows: 1
-
-   * - Time
-     - Topic
-     - Details
-   * - hehe
-     - haha
-     - haha
-   * - hehe
-     - haha
-     - haha
-
 
 Homeworks
 ---------
@@ -60,18 +39,50 @@ Homeworks
    :widths: 10 20 40 30
    :header-rows: 1
 
-
-   * - Count
+   * - Set
      - Due date
-     - Topic
-     - Details
+     - Problems
+     - Solutions 
    * - 1
-     - Jan 26
-     - Hourse price modeling
-     - `notebook <.>`_
-
-Units
------
+     - 1/29/2019
+     -
+     - 
+   * - 2
+     - 2/5/2019
+     -
+     - 
+   * - 3
+     - 2/12/2019
+     -
+     - 
+   * - 4
+     - 2/19/2019
+     -
+     - 
+   * - 5
+     - 2/26/2019
+     -
+     - 
+   * - 6
+     - 3/12/2019
+     -
+     - 
+   * - 7
+     - 4/2/2019
+     -
+     - 
+   * - 8
+     - 4/9/2019
+     -
+     - 
+   * - 9
+     - 4/16/2019
+     -
+     - 
+   * - 10
+     - 4/30/2019 
+     -
+     - 
 
 .. toctree::
    :maxdepth: 1
@@ -87,21 +98,23 @@ Units
 Prerequisites
 -------------
 
-Please visit the `Forum <https://discuss.mxnet.io/c/courses>`_  for
-more stuff 
-
-Programming in Python (CS 61a or CS/STAT C8 and CS 88), linear algebra (MATH 54,
-STAT 89A, or EE 16A), probability (STAT 134, STAT 140, or EE 126), and
-statistics (STAT 20, STAT 135, or CS/STAT C100).
-
+Programming in Python (CS 61a or CS/STAT C8 and CS 88), Linear Algebra (MATH 54,
+STAT 89A, or EE 16A), Probability (STAT 134, STAT 140, or EE 126), and
+Statistics (STAT 20, STAT 135, or CS/STAT C100) are highly
+desirable. Eqivalent knowledge is fine, and we will try to make the
+class as self-contained as possible. *This is a class where you need
+to get your hands dirty with programming.* 
 
 
 Course Format
 -------------
 
-The course consists of 2 units of 90 minutes, taught by the instructors, plus
-office hours by the instructors and TAs. Evaluation is based on a midterm exam
-(20%), homework (30%), attendance (5%), and a research project (60%) which will
-be presented in lieu of an end-of-course exam. The research project is evaluated
-via organization (10%), mid-project report (15%), presentation (15%), report
-(20%).
+The course consists of 2 units of 90 minutes, taught by the
+instructors, plus office hours by the instructors and TAs. Evaluation
+is based on a midterm exam (20%), homework (30%), and a research
+project (50%) which will be presented in lieu of an end-of-course
+exam. The research project is evaluated via organization (10% each for
+registering on time and talking to the TAs), mid-project report (20%),
+presentation (30%) and final report (30%). As part of the course you
+will be performing work that's similar to research leading up to a
+paper.

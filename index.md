@@ -3,12 +3,12 @@
 
 ## Practical information
 
-| Key | Value |
+| | |
 |---|---|
-| Lectures | Every Tuesday/Thursday 3:30pm - 5:00pm |
-| Location | [LeConte 3](https://confluence.ets.berkeley.edu/confluence/display/CL/3+LeConte) |
 | Instructor | [Alex Smola](https://alex.smola.org), and [Mu Li](https://github.com/mli) |
 | TAs | TBD |
+| Lectures | Every Tuesday/Thursday 3:30pm - 5:00pm |
+| Location | [LeConte 3](https://confluence.ets.berkeley.edu/confluence/display/CL/3+LeConte) |
 | Office Hours | Thursday, 1:00 - 3:00pm |
 | Locations | Evans Hall |
 | Grading Policy | Homework 30%, Midterm 20%, Project 50% |
@@ -44,11 +44,8 @@ The course consists of 2 units of 90 minutes, taught by the
 instructors, plus office hours by the instructors and TAs. Evaluation
 is based on a midterm exam (20%), homework (30%), and a research
 project (50%) which will be presented in lieu of an end-of-course
-exam. The research project is evaluated via organization (10% each for
-registering on time and talking to the TAs), mid-project report (20%),
-presentation (30%) and final report (30%). As part of the course you
-will be performing work that's similar to research leading up to a
-paper.
+exam. As part of the course you will be performing work that's similar
+to research leading up to a paper.
 
 ## Assignments
 

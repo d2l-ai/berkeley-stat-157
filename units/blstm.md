@@ -1,15 +1,11 @@
-# Probability and Statistics
+# Advanced Sequence Models
 
 ## Slides
 
-* [Keynote]()
-* [PDF]()
-* [Jupyter]()
-
 ## Content
 
-* [Probability and Statistics](http://en.diveintodeeplearning.org/chapter_crashcourse/probability.html)
-* [Naive Bayes](http://en.diveintodeeplearning.org/chapter_crashcourse/naive-bayes.html)
-* [Sampling](http://en.diveintodeeplearning.org/chapter_crashcourse/sampling.html)
+* [Deep Recurrent Neural Networks](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/deep-rnn.html)
+* [Bidirectional RNNs](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/bi-rnn.html)
+* [Beam Search](http://en.diveintodeeplearning.org/chapter_natural-language-processing/beam-search.html)
 
 ## Videos

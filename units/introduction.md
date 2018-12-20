@@ -2,10 +2,6 @@
 
 ## Slides
 
-* [Keynote]()
-* [PDF]()
-* [Jupyter]()
-
 ## Content
 
 We'll cover basic logistis of how to get started and then dive into

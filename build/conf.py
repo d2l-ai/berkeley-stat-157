@@ -17,14 +17,14 @@ html_theme_options = {
         # The items in the navbar under the title, the format is
         # Name, Link, (keep True, ignore its meaning), font-awesome icon name (can be empty).
         # You can search all icons at https://fontawesome.com/icons?d=gallery
-        ('Syllabus', 'syllabus.html', True, 'fas fa-list-ul'),
+        ('Syllabus', 'http://courses.diveintodeeplearning.org/berkeley-stat-157/syllabus.html', True, 'fas fa-list-ul'),
         ('Video', 'https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW', True, 'fas fa-video'),
         ('Forum', 'https://discuss.mxnet.io/c/courses', True, 'fas fa-user-tie'),
         ('Github', 'https://github.com/diveintodeeplearning/berkeley-stat-157', True, 'fab fa-github'),
     ],
     'primary_color': 'blue',
     'accent_color': 'deep_orange',
-    'show_footer': True,
+    'show_footer': False,
 }
 
 # ========== you often don't need to change the rest ========

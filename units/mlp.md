@@ -1,15 +1,12 @@
-# Probability and Statistics
+# Multilayer Perceptron
 
 ## Slides
 
-* [Keynote]()
-* [PDF]()
-* [Jupyter]()
 
 ## Content
 
-* [Probability and Statistics](http://en.diveintodeeplearning.org/chapter_crashcourse/probability.html)
-* [Naive Bayes](http://en.diveintodeeplearning.org/chapter_crashcourse/naive-bayes.html)
-* [Sampling](http://en.diveintodeeplearning.org/chapter_crashcourse/sampling.html)
+* [Multilayer Perceptron](http://en.diveintodeeplearning.org/chapter_deep-learning-basics/mlp.html)
+* [Multilayer Perceptron Implementation](http://en.diveintodeeplearning.org/chapter_deep-learning-basics/mlp-scratch.html)
+* [Multilayer Perceptron in Gluon](http://en.diveintodeeplearning.org/chapter_deep-learning-basics/mlp-gluon.html)
 
 ## Videos

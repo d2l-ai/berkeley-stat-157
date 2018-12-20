@@ -2,9 +2,6 @@
 
 ## Slides
 
-* [Keynote]()
-* [PDF]()
-* [Jupyter]()
 
 ## Content
 

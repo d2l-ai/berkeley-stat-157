@@ -1,15 +1,15 @@
-# Probability and Statistics
+# Linear Regression and Logistic Models
 
 ## Slides
 
-* [Keynote]()
-* [PDF]()
-* [Jupyter]()
 
 ## Content
 
-* [Probability and Statistics](http://en.diveintodeeplearning.org/chapter_crashcourse/probability.html)
-* [Naive Bayes](http://en.diveintodeeplearning.org/chapter_crashcourse/naive-bayes.html)
-* [Sampling](http://en.diveintodeeplearning.org/chapter_crashcourse/sampling.html)
+* [Linear Regression](http://en.diveintodeeplearning.org/chapter_deep-learning-basics/linear-regression.html)
+* [Linear Regression Implementation](http://en.diveintodeeplearning.org/chapter_deep-learning-basics/linear-regression-scratch.html)
+* [Linear Regression in Gluon ](http://en.diveintodeeplearning.org/chapter_deep-learning-basics/linear-regression-gluon.html)
+* [Softmax Regression Implementation](http://en.diveintodeeplearning.org/chapter_deep-learning-basics/softmax-regression-scratch.html)
+* [Softmax Regression in Gluon ](http://en.diveintodeeplearning.org/chapter_deep-learning-basics/softmax-regression-gluon.html)
+
 
 ## Videos

@@ -1,15 +1,11 @@
-# Probability and Statistics
+# Dropout and Initialization
 
 ## Slides
 
-* [Keynote]()
-* [PDF]()
-* [Jupyter]()
-
 ## Content
 
-* [Probability and Statistics](http://en.diveintodeeplearning.org/chapter_crashcourse/probability.html)
-* [Naive Bayes](http://en.diveintodeeplearning.org/chapter_crashcourse/naive-bayes.html)
-* [Sampling](http://en.diveintodeeplearning.org/chapter_crashcourse/sampling.html)
+* [Dropout](http://en.diveintodeeplearning.org/chapter_deep-learning-basics/dropout.html)
+* [Initialization](http://en.diveintodeeplearning.org/chapter_deep-learning-basics/numerical-stability-and-init.html)
+* [Computational Graphs](http://en.diveintodeeplearning.org/chapter_deep-learning-basics/backprop.html)
 
 ## Videos

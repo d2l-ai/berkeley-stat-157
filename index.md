@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Instructor | [Alex Smola](https://alex.smola.org), and [Mu Li](https://github.com/mli) |
+| Instructor | [Alex Smola](https://alex.smola.org) and [Mu Li](https://github.com/mli) |
 | TAs | TBD |
 | Lectures | Every Tuesday/Thursday 3:30pm - 5:00pm |
 | Location | [LeConte 3](https://confluence.ets.berkeley.edu/confluence/display/CL/3+LeConte) |

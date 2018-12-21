@@ -1,15 +1,14 @@
-# Probability and Statistics
+# Making a Computer Vision Model work
 
 ## Slides
 
-* [Keynote]()
-* [PDF]()
-* [Jupyter]()
-
 ## Content
 
-* [Probability and Statistics](http://en.diveintodeeplearning.org/chapter_crashcourse/probability.html)
-* [Naive Bayes](http://en.diveintodeeplearning.org/chapter_crashcourse/naive-bayes.html)
-* [Sampling](http://en.diveintodeeplearning.org/chapter_crashcourse/sampling.html)
+Building a dog classifier from scratch. This will cover pretraining,
+tuning, etc.
+
+* [Image Augmentation](http://en.diveintodeeplearning.org/chapter_computer-vision/image-augmentation.html)
+* [Fine Tuning](http://en.diveintodeeplearning.org/chapter_computer-vision/fine-tuning.html)
+* [100 Dogs](http://en.diveintodeeplearning.org/chapter_computer-vision/kaggle-gluon-dog.html)
 
 ## Videos

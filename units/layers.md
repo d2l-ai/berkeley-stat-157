@@ -1,15 +1,12 @@
-# Probability and Statistics
+# Blocks and Layers
 
 ## Slides
 
-* [Keynote]()
-* [PDF]()
-* [Jupyter]()
-
 ## Content
 
-* [Probability and Statistics](http://en.diveintodeeplearning.org/chapter_crashcourse/probability.html)
-* [Naive Bayes](http://en.diveintodeeplearning.org/chapter_crashcourse/naive-bayes.html)
-* [Sampling](http://en.diveintodeeplearning.org/chapter_crashcourse/sampling.html)
+* [Blocks and Layers](http://en.diveintodeeplearning.org/chapter_deep-learning-computation/model-construction.html)
+* [Parameters](http://en.diveintodeeplearning.org/chapter_deep-learning-computation/parameters.html)
+* [Deferred Initialization](http://en.diveintodeeplearning.org/chapter_deep-learning-computation/deferred-init.html)
+* [GPUs](http://en.diveintodeeplearning.org/chapter_deep-learning-computation/use-gpu.html)
 
 ## Videos

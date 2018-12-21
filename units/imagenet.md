@@ -1,15 +1,9 @@
-# Probability and Statistics
+# Peak Performance on ImageNet
 
 ## Slides
 
-* [Keynote]()
-* [PDF]()
-* [Jupyter]()
-
 ## Content
 
-* [Probability and Statistics](http://en.diveintodeeplearning.org/chapter_crashcourse/probability.html)
-* [Naive Bayes](http://en.diveintodeeplearning.org/chapter_crashcourse/naive-bayes.html)
-* [Sampling](http://en.diveintodeeplearning.org/chapter_crashcourse/sampling.html)
+* [Gluon CV Toolkit](https://gluon-cv.mxnet.io/)
 
 ## Videos

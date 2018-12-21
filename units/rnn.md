@@ -1,15 +1,11 @@
-# Probability and Statistics
+# Recurrent Neural Networks
 
 ## Slides
 
-* [Keynote]()
-* [PDF]()
-* [Jupyter]()
-
 ## Content
 
-* [Probability and Statistics](http://en.diveintodeeplearning.org/chapter_crashcourse/probability.html)
-* [Naive Bayes](http://en.diveintodeeplearning.org/chapter_crashcourse/naive-bayes.html)
-* [Sampling](http://en.diveintodeeplearning.org/chapter_crashcourse/sampling.html)
+* [Building an RNN](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/rnn-scratch.html)
+* [Building an RNN in Gluon](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/rnn-gluon.html)
+* [Backpropagation through Time](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/bptt.html)
 
 ## Videos

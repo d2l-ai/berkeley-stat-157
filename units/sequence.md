@@ -1,15 +1,12 @@
-# Probability and Statistics
+# Sequence Models and Language
 
 ## Slides
 
-* [Keynote]()
-* [PDF]()
-* [Jupyter]()
-
 ## Content
 
-* [Probability and Statistics](http://en.diveintodeeplearning.org/chapter_crashcourse/probability.html)
-* [Naive Bayes](http://en.diveintodeeplearning.org/chapter_crashcourse/naive-bayes.html)
-* [Sampling](http://en.diveintodeeplearning.org/chapter_crashcourse/sampling.html)
+* [Sequence Models](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/sequence.html)
+* [Language Models](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/lang-model.html)
+* [Recurrent Neural Networks](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/rnn.html)
+* [Text Preprocessing](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/lang-model-dataset.html)
 
 ## Videos

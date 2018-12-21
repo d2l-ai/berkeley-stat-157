@@ -1,15 +1,10 @@
-# Probability and Statistics
+# Residual Networks and Advanced Architectures
 
 ## Slides
 
-* [Keynote]()
-* [PDF]()
-* [Jupyter]()
-
 ## Content
 
-* [Probability and Statistics](http://en.diveintodeeplearning.org/chapter_crashcourse/probability.html)
-* [Naive Bayes](http://en.diveintodeeplearning.org/chapter_crashcourse/naive-bayes.html)
-* [Sampling](http://en.diveintodeeplearning.org/chapter_crashcourse/sampling.html)
+* [Residual Networks](http://en.diveintodeeplearning.org/chapter_convolutional-neural-networks/resnet.html)
+* [Densely Connected Networks](http://en.diveintodeeplearning.org/chapter_convolutional-neural-networks/densenet.html)
 
 ## Videos

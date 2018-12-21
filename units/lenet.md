@@ -1,15 +1,10 @@
-# Probability and Statistics
+# Basic Convolutional Networks
 
 ## Slides
 
-* [Keynote]()
-* [PDF]()
-* [Jupyter]()
-
 ## Content
 
-* [Probability and Statistics](http://en.diveintodeeplearning.org/chapter_crashcourse/probability.html)
-* [Naive Bayes](http://en.diveintodeeplearning.org/chapter_crashcourse/naive-bayes.html)
-* [Sampling](http://en.diveintodeeplearning.org/chapter_crashcourse/sampling.html)
+* [LeNet](http://en.diveintodeeplearning.org/chapter_convolutional-neural-networks/lenet.html)
+* [AlexNet](http://en.diveintodeeplearning.org/chapter_convolutional-neural-networks/alexnet.html)
 
 ## Videos

@@ -5,12 +5,14 @@
 
 | | |
 |---|---|
-| Instructor | [Alex Smola](https://alex.smola.org) and [Mu Li](https://github.com/mli) |
-| TAs | TBD |
+| Instructors | [Alex Smola](https://alex.smola.org) and [Mu Li](https://github.com/mli) |
+| TAs | [Ryan Theisen](http://ryantheisen.com/) |
 | Lectures | Every Tuesday/Thursday 3:30pm - 5:00pm |
 | Location | [LeConte 3](https://confluence.ets.berkeley.edu/confluence/display/CL/3+LeConte) |
-| Office Hours | Thursday, 1:00 - 3:00pm |
-| Locations | Evans Hall |
+| Instructor Office Hours | Thursday, 1:00 - 3:00pm |
+| Location | 337 Evans Hall |
+| Contact instructors and TAs | berkeley-stat-157@googlegroups.com |
+| Course discussion | [https://discuss.mxnet.io/c/courses](https://discuss.mxnet.io/c/courses) |
 | Grading Policy | Homework 30%, Midterm 20%, Project 50% |
 
 ## Overview
@@ -27,7 +29,7 @@ implementation, optimization and scalability, e.g. to multiple GPUs and to
 multiple machines. The goal of the course is to provide both a good
 understanding and good ability to build modern nonparametric estimators. The
 entire course is based on Jupyter notebooks to allow students to gain experience
-quickly. Supporting material can be found at https://diveintodeeplearning.org.
+quickly. Supporting material can be found at https://d2l.ai.
 
 ## Prerequisites
 
@@ -36,7 +38,7 @@ STAT 89A, or EE 16A), Probability (STAT 134, STAT 140, or EE 126), and
 Statistics (STAT 20, STAT 135, or CS/STAT C100) are highly
 desirable. Eqivalent knowledge is fine, and we will try to make the
 class as self-contained as possible. *This is a class where you need
-to get your hands dirty with programming.* 
+to get your hands dirty with programming.*
 
 ## Course Format
 

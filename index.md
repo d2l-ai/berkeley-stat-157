@@ -49,21 +49,6 @@ project (50%) which will be presented in lieu of an end-of-course
 exam. As part of the course you will be performing work that's similar
 to research leading up to a paper.
 
-## Assignments
-
-| Set | Due date  | Problems | Solutions |
-|-----|-----------|----------|-----------|
-| 1   | 1/29/2019 | | |
-| 2   | 2/5/2019  | | |
-| 3   | 2/12/2019 | | |
-| 4   | 2/19/2019 | | |
-| 5   | 2/26/2019 | | |
-| 6   | 3/12/2019 | | |
-| 7   | 4/2/2019  | | |
-| 8   | 4/9/2019  | | |
-| 9   | 4/16/2019 | | |
-| 10  | 4/30/2019 | | |
-
 
 ```eval_rst
 

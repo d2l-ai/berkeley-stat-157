@@ -15,6 +15,10 @@
 | Course discussion | [https://discuss.mxnet.io/c/courses](https://discuss.mxnet.io/c/courses) |
 | Grading Policy | Homework 30%, Midterm 20%, Project 50% |
 
+## News
+
+- 1/22: Updated course information, uploaded slides for today's lecture and homework 1.
+
 ## Overview
 
 This class provides a practical introduction to deep learning, including

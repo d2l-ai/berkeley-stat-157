@@ -8,31 +8,34 @@ course. If we see brazen plagiarism we will deal with it. That said, you
 *should* discuss the problems and solutions with others. You will likely benefit
 from that.
 
-Assignments are due on Tuesdays.
+Please submit your homeworks through Github:
 
-* You must hand in the assignments by the end of the lecture, i.e. by
-  5pm PST, either in paper or by e-mail to
-  [stat-157-2019@gmail.com](mailto://berkeley-stat-157@googlegroups.com). **This
-  deadline is firm.**
-* Programming assignments are to be submitted as Jupyter Notebooks
-  **with their execution traces saved** and with comments in the
-  code. This allows the TAs to understand what your code is
-  doing. Please be prepared to share the notebooks as code if needed
-  (i.e. if we think that you're faking the output we'll ask you to let
-  us reproduce the code in the notebook).
-* New homeworks will appear at the latest on Tuesdays when the
-  previous homework is due, in some cases earlier. The reason for not
-  posting all 10 problem sets online is that we need to calibrate how
-  quickly we'll cover the material. After all, the homework shouldn't
-  rely on material that we haven't covered in class yet.
+1. First create a Github repo,
+e.g. https://github.com/mli/berkeley-stat-157. You may want to make it private
+(Github now offers unlimited private repos).
+2. Email your repo URL to berkeley-stat-157@googlegroups.com with your name and
+   SID. And also add Ryan (Github ID [rythei](https://github.com/rythei)) as a
+   collabrator to your repo. You can do it through Setting -> Collabrators &
+   teams -> Collaborators. (Check this [screen shot](https://raw.githubusercontent.com/d2l-ai/berkeley-stat-157/master/media/collabrator.png)).
+3. Save the homework notebook in your root directory of your repo. Before
+   pushing, please make sure run all cells and save it with outputs, i.e. click
+   Kernel -> Restart & Run All in Jupyter notebook, then save. (Check this
+   [screen shot](https://raw.githubusercontent.com/d2l-ai/berkeley-stat-157/master/media/run-all.png)).
+
+Assignments are due by 4pm on the Tuesday. Please upload your homework to Github
+before that time. You can either use `git push` or click the "Upload files" on
+Github.
+
 
 ### Details
 
-As we proceed, we'll be filling in details. In terms of solutions we'll take the liberty to reuse some of your submissions as reference solutions (unless you tell us otherwise).
+As we proceed, we'll be filling in details. In terms of solutions we'll take the
+liberty to reuse some of your submissions as reference solutions (unless you
+tell us otherwise).
 
 | Set | Due date  | Problems | Solutions |
 |-----|-----------|----------|-----------|
-| 1   | 1/29/2019 | | |
+| 1   | 1/29/2019 | |[homework1.ipynb](https://github.com/d2l-ai/berkeley-stat-157/blob/master/homeworks/homework1.ipynb) | |
 | 2   | 2/5/2019  | | |
 | 3   | 2/12/2019 | | |
 | 4   | 2/19/2019 | | |

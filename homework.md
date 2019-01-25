@@ -35,7 +35,7 @@ tell us otherwise).
 
 | Set | Due date  | Problems | Solutions |
 |-----|-----------|----------|-----------|
-| 1   | 1/29/2019 | [homework1.ipynb](https://github.com/d2l-ai/berkeley-stat-157/blob/master/homeworks/homework1.ipynb) | |
+| 1   | 1/29/2019 | [Jupyter](homeworks/homework1.ipynb), [PDF](homeworks/homework1.pdf) | |
 | 2   | 2/5/2019  | | |
 | 3   | 2/12/2019 | | |
 | 4   | 2/19/2019 | | |

@@ -20,9 +20,9 @@ This course is heavy on hands-on experience. Hence the project carries a signifi
 
 There are weekly assignments. We strongly discourage you from copying solutions of your fellow students since you're depriving yourself of the experience of learning how to solve the problems on your own. In particular you won't learn useful things for the exams and projects this way. Or for that matter, from the course. That said, you *should* discuss the solutions with others. You will likely benefit from that.
 
-Assignments are due on Tuesdays. You must hand in the assignments by the end of the lecture, i.e. by 5pm, either in paper or by e-mail to [stat-157-2019@gmail.com](mailto://berkeley-stat-157@googlegroups.com). Programming assignments are to be submitted as Jupyter Notebooks **with their execution traces saved**. 
+Assignments are due on Tuesdays. You must hand in the assignments by the end of the lecture, i.e. by 5pm, either in paper or by e-mail to [berkeley-stat-157@googlegroups.com](mailto://berkeley-stat-157@googlegroups.com). Programming assignments are to be submitted as Jupyter Notebooks **with their execution traces saved**. 
 
-* Set 1 - **January 29, 2019**
+* [Set 1](homeworks/homework1.ipynb) - **January 29, 2019**
 * Set 2 - **February 5, 2019**
 * Set 3 - **February 12, 2019**
 * Set 4 - **February 19, 2019**

@@ -6,7 +6,7 @@
 [keynote](https://github.com/d2l-ai/berkeley-stat-157/raw/master/slides/1_22/1-Logistics.key), [pdf](https://github.com/d2l-ai/berkeley-stat-157/raw/master/slides/1_22/1-Logistics.pdf)
 * Linear Algebra notebook: [ipynb](https://github.com/d2l-ai/berkeley-stat-157/blob/master/slides/1_22/linear-algebra.ipynb), [pdf](https://github.com/d2l-ai/berkeley-stat-157/blob/master/slides/1_22/linear-algebra.pdf)
 
-## Extend Reading
+## Extended Reading
 
 * [Introduction to Deep Learning](https://d2l.ai/chapter_introduction/deep-learning-intro.html)
 * [Installation](https://d2l.ai/chapter_crashcourse/install.html)

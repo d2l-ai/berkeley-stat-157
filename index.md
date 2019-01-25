@@ -6,7 +6,7 @@
 | | |
 |---|---|
 | Instructors | [Alex Smola](https://alex.smola.org) and [Mu Li](https://github.com/mli) |
-| TAs | [Ryan Theisen](http://ryantheisen.com/) |
+| TAs | [Rachel Hu](https://statistics.berkeley.edu/people/rachel-hu) and [Ryan Theisen](http://ryantheisen.com/) |
 | Lectures | Every Tuesday/Thursday 3:30pm - 5:00pm |
 | Location | [LeConte 3](https://confluence.ets.berkeley.edu/confluence/display/CL/3+LeConte) |
 | Instructor Office Hours | Thursday, 1:00 - 3:00pm |

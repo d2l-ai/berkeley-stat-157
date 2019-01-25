@@ -34,7 +34,7 @@ implementation, optimization and scalability, e.g. to multiple GPUs and to
 multiple machines. The goal of the course is to provide both a good
 understanding and good ability to build modern nonparametric estimators. The
 entire course is based on Jupyter notebooks to allow students to gain experience
-quickly. Supporting material can be found at https://d2l.ai.
+quickly. Supporting material can be found at [https://d2l.ai](https://d2l.ai).
 
 ## Prerequisites
 
@@ -49,8 +49,8 @@ to get your hands dirty with programming.*
 
 The course consists of 2 units of 90 minutes, taught by the
 instructors, plus office hours by the instructors and TAs. Evaluation
-is based on a midterm exam (20%), homework (30%), and a research
-project (50%) which will be presented in lieu of an end-of-course
+is based on a __midterm exam__ (20%), __homework__ (30%), and a __research
+project__ (50%) which will be presented in lieu of an end-of-course
 exam. As part of the course you will be performing work that's similar
 to research leading up to a paper.
 

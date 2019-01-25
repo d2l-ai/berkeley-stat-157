@@ -3,15 +3,15 @@
 ## Slides
 
 * Probability and Statistics lecture in
-  [keynote](../slides/1_24/2-Statistics.key),
-  [PDF](../slides/1_24/2-Statistics.pdf)
+  [keynote](../../slides/1_24/2-Statistics.key),
+  [PDF](../../slides/1_24/2-Statistics.pdf)
 * Jupyter notebooks
-  * Probability in [Jupyter](../slides/1_24/probability.ipynb),
-  [PDF](../slides/1_24/probability.pdf)
-  * Naive Bayes in [Jupyter](../slides/1_24/naive-bayes.ipynb),
-  [PDF](../slides/1_24/naive-bayes.pdf)
-  * Sampling in [Jupyter](../slides/1_24/sampling.ipynb),
-  [PDF](../slides/1_24/sampling.pdf)
+  * Probability in [Jupyter](../../slides/1_24/probability.ipynb),
+  [PDF](../../slides/1_24/probability.pdf)
+  * Naive Bayes in [Jupyter](../../slides/1_24/naive-bayes.ipynb),
+  [PDF](../../slides/1_24/naive-bayes.pdf)
+  * Sampling in [Jupyter](../../slides/1_24/sampling.ipynb),
+  [PDF](../../slides/1_24/sampling.pdf)
 
 ## Extended Reading
 

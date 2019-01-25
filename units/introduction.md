@@ -3,18 +3,18 @@
 ## Slides
 
 * Logisitic, software and linear algebra lecture in
-  [keynote](../slides/1_22/1-Logistics.key),
-  [PDF](../slides/1_22/1-Logistics.pdf)
+  [keynote](../../slides/1_22/1-Logistics.key),
+  [PDF](../../slides/1_22/1-Logistics.pdf)
 * Jupyter notebooks
-  * Linear Algebra in [Jupyter](../slides/1_22/linear-algebra.ipynb),
-  [PDF](../slides/1_22/linear-algebra.pdf)
-  * NDArray in [Jupyter](../slides/1_22/ndarray.ipynb),
-  [PDF](../slides/1_22/ndarray.pdf)
+  * Linear Algebra in [Jupyter](../../slides/1_22/linear-algebra.ipynb),
+  [PDF](../../slides/1_22/linear-algebra.pdf)
+  * NDArray in [Jupyter](../../slides/1_22/ndarray.ipynb),
+  [PDF](../../slides/1_22/ndarray.pdf)
 
 ## Homework 1
 
-[Jupyter](homeworks/homework1.ipynb) and
-[PDF](homeworks/homework1.pdf). Note that the PDF version is just
+[Jupyter](../../homeworks/homework1.ipynb) and
+[PDF](../../homeworks/homework1.pdf). Note that the PDF version is just
 there to allow you to render it easily on a viewer. For homework
 submission you will need to use Jupyter. 
 

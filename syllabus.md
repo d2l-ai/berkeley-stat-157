@@ -5,7 +5,7 @@ This class provides a practical introduction to deep learning, including theoret
 | Date | Topics |
 |------|--------|
 | 1/22 | [Logistics, Software, Linear Algebra](units/introduction.html) |
-| 1/24 | Probability and Statistics (Bayes Rule, Sampling Naive Bayes, Sampling) |
+| 1/24 | [Probability and Statistics (Bayes Rule, Sampling Naive Bayes, Sampling)](units/probability.html) |
 | 1/29 | Arrays, Automatic differentiation, Chain Rule |
 | 1/31 | Linear and Logistic regression, Learning rate, Batch size |
 | 2/5  | Loss Functions, Likelihood |

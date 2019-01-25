@@ -2,9 +2,21 @@
 
 ## Slides
 
-* Logisitic, software and linear algebra:
-[keynote](https://github.com/d2l-ai/berkeley-stat-157/raw/master/slides/1_22/1-Logistics.key), [pdf](https://github.com/d2l-ai/berkeley-stat-157/raw/master/slides/1_22/1-Logistics.pdf)
-* Linear Algebra notebook: [ipynb](https://github.com/d2l-ai/berkeley-stat-157/blob/master/slides/1_22/linear-algebra.ipynb), [pdf](https://github.com/d2l-ai/berkeley-stat-157/blob/master/slides/1_22/linear-algebra.pdf)
+* Logisitic, software and linear algebra lecture in
+  [keynote](../slides/1_22/1-Logistics.key),
+  [PDF](../slides/1_22/1-Logistics.pdf)
+* Jupyter notebooks
+  * Linear Algebra in [Jupyter](../slides/1_22/linear-algebra.ipynb),
+  [PDF](../slides/1_22/linear-algebra.pdf)
+  * NDArray in [Jupyter](../slides/1_22/ndarray.ipynb),
+  [PDF](../slides/1_22/ndarray.pdf)
+
+## Homework 1
+
+[Jupyter](homeworks/homework1.ipynb) and
+[PDF](homeworks/homework1.pdf). Note that the PDF version is just
+there to allow you to render it easily on a viewer. For homework
+submission you will need to use Jupyter. 
 
 ## Extended Reading
 
@@ -16,16 +28,6 @@
 
 ## Videos
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/N17ovGpUz3M" frameborder="0" allowfullscreen></iframe></center>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/f_gP3KaeJV8" frameborder="0" allowfullscreen></iframe></center>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/clWLNb3-rps" frameborder="0" allowfullscreen></iframe></center>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bVLXubD9wcI" frameborder="0" allowfullscreen></iframe></center>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/rPcQcHZhWeE" frameborder="0" allowfullscreen></iframe></center>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/OCyc0bCRVgE" frameborder="0" allowfullscreen></iframe></center>
-
-
+Coming soon. We had an issue with the video recording and we're
+working on fixing it. Videos will be online once this is
+addressed. Please stay tuned.

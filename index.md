@@ -17,7 +17,7 @@
 
 ## News
 
-- 1/24: Slides, Videos, and Notebooks for [Lecture 2](units/probability.md) are up.
+- 1/24: Slides, Videos, and Notebooks for [Lecture 2](units/probability.html) are up.
 - 1/22: Updated course information, uploaded slides for today's lecture and homework 1.
 
 ## Overview

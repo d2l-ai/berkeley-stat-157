@@ -31,3 +31,8 @@ submission you will need to use Jupyter.
 Coming soon. We had an issue with the video recording and we're
 working on fixing it. Videos will be online once this is
 addressed. Please stay tuned.
+
+<center><iframe width="560" height="397" src="https://www.youtube.com/embed/N17ovGpUz3M" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="397" src="https://www.youtube.com/embed/f_gP3KaeJV8" frameborder="0" allowfullscreen></iframe></center>
+

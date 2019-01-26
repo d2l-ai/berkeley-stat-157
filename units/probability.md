@@ -21,10 +21,6 @@
 
 ## Videos
 
-<center><iframe width="560" height="397" src="https://www.youtube.com/embed/N17ovGpUz3M" frameborder="0" allowfullscreen></iframe></center>
-
-<center><iframe width="560" height="397" src="https://www.youtube.com/embed/f_gP3KaeJV8" frameborder="0" allowfullscreen></iframe></center>
-
 <center><iframe width="560" height="397" src="https://www.youtube.com/embed/clWLNb3-rps" frameborder="0" allowfullscreen></iframe></center>
 
 <center><iframe width="560" height="397" src="https://www.youtube.com/embed/bVLXubD9wcI" frameborder="0" allowfullscreen></iframe></center>

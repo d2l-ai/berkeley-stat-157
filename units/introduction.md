@@ -11,6 +11,10 @@
   * NDArray in [Jupyter](../../slides/1_22/ndarray.ipynb),
   [PDF](../../slides/1_22/ndarray.pdf)
 
+<center><iframe src="http://docs.google.com/gview?url=http://courses.d2l.ai/berkeley-stat-157/slides/1_22/1-Logistics.pdf&embedded=true" 
+    style="width:600px; height:400px;" frameborder="0"></iframe></center>
+
+
 ## Homework 1
 
 [Jupyter](../../homeworks/homework1.ipynb) and
@@ -28,9 +32,15 @@ submission you will need to use Jupyter.
 
 ## Videos
 
-Coming soon. We had an issue with the video recording and we're
-working on fixing it. Videos will be online once this is
-addressed. Please stay tuned.
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/Va8WWRfw7Og" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/p9tpTt6ZsLI" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/qouBvNDOi9o" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/dtX8iQGQQkI" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/22_SnBBCYk4" frameborder="0" allowfullscreen></iframe></center>
 
 <center><iframe width="560" height="397" src="https://www.youtube.com/embed/N17ovGpUz3M" frameborder="0" allowfullscreen></iframe></center>
 

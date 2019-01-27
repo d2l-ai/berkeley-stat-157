@@ -13,6 +13,9 @@
   * Sampling in [Jupyter](../../slides/1_24/sampling.ipynb),
   [PDF](../../slides/1_24/sampling.pdf)
 
+<center><iframe src="http://docs.google.com/gview?url=http://courses.d2l.ai/berkeley-stat-157/slides/1_24/2-Statistics.pdf&embedded=true" 
+    style="width:600px; height:400px;" frameborder="0"></iframe></center>
+
 ## Extended Reading
 
 * [Probability and Statistics](http://en.diveintodeeplearning.org/chapter_crashcourse/probability.html)

@@ -17,6 +17,9 @@
 
 ## News
 
+- 1/26: Videos for [Lecture 1](units/introduction.html) are up
+  (they're not the original - we had to re-record them due to
+  technical issues).
 - 1/24: Slides, Videos, and Notebooks for [Lecture 2](units/probability.html) are up.
 - 1/22: Updated course information, uploaded slides for today's lecture and homework 1.
 

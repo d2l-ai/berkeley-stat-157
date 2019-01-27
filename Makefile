@@ -9,7 +9,7 @@ OBJ = $(patsubst %.md, build/%.md, $(MARKDOWN))
 
 html: $(OBJ)
 	make -C build html
-	cp -rf slides homeworks build/_build/html/
+	cp -rf media slides homeworks build/_build/html/
 
 clean:
 	rm -rf $(OBJ) build/_build/

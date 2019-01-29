@@ -36,7 +36,7 @@ tell us otherwise).
 | Set | Due date  | Problems | Solutions |
 |-----|-----------|----------|-----------|
 | 1   | 1/29/2019 | [Jupyter](homeworks/homework1.ipynb), [PDF](homeworks/homework1.pdf) | |
-| 2   | 2/5/2019  | | |
+| 2   | 2/5/2019  | [Jupyter](homeworks/homework2.ipynb), [PDF](homeworks/homework2.pdf) | |
 | 3   | 2/12/2019 | | |
 | 4   | 2/19/2019 | | |
 | 5   | 2/26/2019 | | |

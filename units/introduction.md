@@ -14,7 +14,6 @@
 <center><iframe src="http://docs.google.com/gview?url=http://courses.d2l.ai/berkeley-stat-157/slides/1_22/1-Logistics.pdf&embedded=true" 
     style="width:600px; height:400px;" frameborder="0"></iframe></center>
 
-
 ## Homework 1
 
 [Jupyter](../../homeworks/homework1.ipynb) and

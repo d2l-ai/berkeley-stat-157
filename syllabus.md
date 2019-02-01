@@ -6,8 +6,8 @@ This class provides a practical introduction to deep learning, including theoret
 |------|--------|
 | 1/22 | [Logistics, Software, Linear Algebra](units/introduction.html) |
 | 1/24 | [Probability and Statistics (Bayes Rule, Sampling Naive Bayes, Sampling)](units/probability.html) |
-| 1/29 | Arrays, Automatic differentiation, Chain Rule |
-| 1/31 | Linear and Logistic regression, Learning rate, Batch size |
+| 1/29 | [Gradients, Chain Rule, Automatic differentiation](units/arrays.html) |
+| 1/31 | [Linear & Softmax Regression, Basic Optimization](units/linear.html) |
 | 2/5  | Loss Functions, Likelihood |
 | 2/7  | Multilayer Perceptron |
 | 2/12 | Capacity Control (models, overfitting, underfitting, weight decay) |

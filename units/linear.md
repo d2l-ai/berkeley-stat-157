@@ -3,11 +3,11 @@
 ## Slides
 
 * Linear & Logisitic Regression, Basic Optimization
-  [keynote](../../slides/1_31/4-Linear.key)
-  [PDF](../../slides/1_31/4-Linear.pdf)
+  [keynote](../../slides/1_31/4-Linear-Methods.key)
+  [PDF](../../slides/1_31/4-Linear-Methods.pdf)
 
 
-<center><iframe src="http://docs.google.com/gview?url=http://courses.d2l.ai/berkeley-stat-157/slides/1_31/4-Linear.pdf&embedded=true"
+<center><iframe src="http://docs.google.com/gview?url=http://courses.d2l.ai/berkeley-stat-157/slides/1_31/4-Linear-Methods.pdf&embedded=true"
     style="width:600px; height:400px;" frameborder="0"></iframe></center>
 
 

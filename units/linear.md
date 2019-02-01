@@ -16,7 +16,7 @@
 * [Linear Regression](http://d2l.ai/chapter_deep-learning-basics/linear-regression.html)
 * [Linear Regression Implementation from Scratch](http://d2l.ai/chapter_deep-learning-basics/linear-regression-scratch.html)
 * [Concise Implementation of Linear Regression](http://d2l.ai/chapter_deep-learning-basics/linear-regression-gluon.html)
-* [Softmax Regression¶](http://d2l.ai/chapter_deep-learning-basics/softmax-regression.html)
+* [Softmax Regression](http://d2l.ai/chapter_deep-learning-basics/softmax-regression.html)
 * [Implementation of Softmax Regression from Scratch](http://d2l.ai/chapter_deep-learning-basics/softmax-regression-scratch.html)
 * [Concise Implementation of Softmax Regression](http://d2l.ai/chapter_deep-learning-basics/softmax-regression-gluon.html)
 

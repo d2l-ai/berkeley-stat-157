@@ -17,6 +17,7 @@
 
 ## News
 
+- 1/31: Slighly updated homework 2, uploaded slides for lecture 2 & 3.
 - 1/29: Homework 2 is uploaded.
 - 1/26: Videos for [Lecture 1](units/introduction.html) are up
   (they're not the original - we had to re-record them due to

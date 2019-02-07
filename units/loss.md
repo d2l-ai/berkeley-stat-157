@@ -1,10 +1,12 @@
-# Loss Functions and Likelihood
+# Likelihood, Loss Functions, Logisitic Regression, Information Theory
 
 ## Slides
 
+* Likelihood, Loss Functions, Logisitic Regression, Information Theory
+  [keynote](../../slides/2_5/5-Logistic.key)
+  [PDF](../../slides/2_5/5-Logistic.pdf)
 
 ## Content
 
-* [Logistic Regression](http://en.diveintodeeplearning.org/chapter_deep-learning-basics/softmax-regression.html)
 
 ## Videos

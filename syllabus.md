@@ -9,7 +9,7 @@ This class provides a practical introduction to deep learning, including theoret
 | 1/29 | [Gradients, Chain Rule, Automatic differentiation](units/arrays.html) |
 | 1/31 | [Linear Regression, Basic Optimization](units/linear.html) |
 | 2/5  | [Likelihood, Loss Functions, Logisitic Regression, Information Theory](units/loss.html) |
-| 2/7  | Multilayer Perceptron |
+| 2/7  | [Multilayer Perceptron](units/mlp.html) |
 | 2/12 | Capacity Control (models, overfitting, underfitting, weight decay) |
 | 2/14 | Making it work - Dropout, Preprocessing, Initialization |
 | 2/26 | Environment |

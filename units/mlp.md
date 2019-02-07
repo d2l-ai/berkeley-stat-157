@@ -15,7 +15,7 @@
   * MLP - concise version [Jupyter](../../slides/2_7/mlp-gluon.ipynb),
   [PDF](../../slides/2_7/mlp-gluon.pdf)
 
-<center><iframe src="http://docs.google.com/gview?url=http://courses.d2l.ai/berkeley-stat-157/slides/2_7/7-Perceptron.pdf&embedded=true" 
+<center><iframe src="http://docs.google.com/gview?url=http://courses.d2l.ai/berkeley-stat-157/slides/2_7/6-Perceptron.pdf&embedded=true" 
     style="width:600px; height:400px;" frameborder="0"></iframe></center>
 
 ## Content

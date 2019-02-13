@@ -38,7 +38,7 @@ tell us otherwise).
 | 1   | 1/29/2019 | [Jupyter](homeworks/homework1.ipynb), [PDF](homeworks/homework1.pdf) | [PDF](homeworks/homework1_solutions.pdf)|
 | 2   | 2/5/2019  | [Jupyter](homeworks/homework2.ipynb), [PDF](homeworks/homework2.pdf) | [PDF](homeworks/homework2_solution.pdf)|
 | 3   | 2/12/2019 | [Jupyter](homeworks/homework3.ipynb), [PDF](homeworks/homework3.pdf)| |
-| 4   | 2/19/2019 | | |
+| 4   | 2/19/2019 | [Jupyter](homeworks/homework4.ipynb), [PDF](homeworks/homework4.pdf)| |
 | 5   | 2/26/2019 | | |
 | 6   | 3/12/2019 | | |
 | 7   | 4/2/2019  | | |

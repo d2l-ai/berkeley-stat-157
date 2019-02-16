@@ -10,15 +10,19 @@ This class provides a practical introduction to deep learning, including theoret
 | 1/31 | [Linear Regression, Basic Optimization](units/linear.html) |
 | 2/5  | [Likelihood, Loss Functions, Logisitic Regression, Information Theory](units/loss.html) |
 | 2/7  | [Multilayer Perceptron](units/mlp.html) |
-| 2/12 | Capacity Control (models, overfitting, underfitting, weight decay) |
-| 2/14 | Making it work - Dropout, Preprocessing, Initialization |
-| 2/26 | Environment |
-| 2/28 | Layers, Blocks, Parameters and GPUs|
-| 3/7  | Convolutional Neural Networks (padding, stride, pooling, channels) |
-| 3/12 | LeNet, AlexNet, Blocks |
-| 3/14 | Network in Network, Parallel Combination |
-| 3/21 | Residual Networks, Batch Normalization |
-| 4/2  | Making it work - 100 dogs (ImageNet subset, finetuning) |
+| 2/12 | [Model Selection, Weight Decay, Dropout](units/capacity.html) |
+| 2/14 | [Numerical Stability, Hardware](units/dropout.html) |
+| 2/19 | Environment |
+| 2/21 | Layers, Blocks, Parameters and GPUs|
+| 2/26 | Convolutional Neural Networks (padding, stride, pooling, channels) |
+| 2/28 | LeNet, AlexNet, Blocks |
+| 3/5  | Project Midterm Presentation |
+| 3/7  | Network in Network, Parallel Combination |
+| 3/12 | Residual Networks, Batch Normalization |
+| 3/14 | Making it work - 100 dogs (ImageNet subset, finetuning) |
+| 3/19 | Midterm Exam |
+| 3/21 | TBD |
+| 4/2  | TBD |
 | 4/4  | Sequence models and Language |
 | 4/9  | Recurrent neural networks, Making it work - language modeling |
 | 4/11 | Truncated Backprop, Gated Recurrent Unit, Long Short Term Memory |
@@ -28,3 +32,5 @@ This class provides a practical introduction to deep learning, including theoret
 | 4/25 | AdaGrad, Adam, Conditioning, Yogi |
 | 4/30 | Parallel Computing (synchronous, asynchronous, parameter server) |
 | 5/2  | Making it work - Large scale computer vision models |
+| 5/7  | Project Final Presentation |
+| 5/10 | Project Final Presentation |

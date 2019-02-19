@@ -2,11 +2,11 @@
 
 ## Slides
 
-- Model Selection, Weight Decay, Dropout [PDF](../slides/2_12/7-Capacity.pdf) [Keynote](../slides/2_12/7-Capacity.key)
+- Model Selection, Weight Decay, Dropout [PDF](../../slides/2_12/7-Capacity.pdf) [Keynote](../../slides/2_12/7-Capacity.key)
 - Jupyter notebooks
-  - Model Selection for Polynomial Regression [Jupyter](../slides/2_12/underfit-overfit.ipynb)
-  - Weight Decay [Jupyter](../slides/2_12/weight-decay.ipynb)
-  - Dropout [Jupyter](../slides/2_12/dropout.ipynb)
+  - Model Selection for Polynomial Regression [Jupyter](../../slides/2_12/underfit-overfit.ipynb)
+  - Weight Decay [Jupyter](../../slides/2_12/weight-decay.ipynb)
+  - Dropout [Jupyter](../../slides/2_12/dropout.ipynb)
 
 
 <center><iframe src="http://docs.google.com/gview?url=http://courses.d2l.ai/berkeley-stat-157/slides/2_12/7-Capacity.pdf&embedded=true"

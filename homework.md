@@ -1,6 +1,6 @@
 ## Assignments
 
-**Update on 2/19** Please submit your homework through
+**Update on 2/19** Please submit your homeworks through
   [gradescope](http://gradescope.com/) instead of Github, so you will get the
   score distribution for each question. Please enroll in the
   [class](https://www.gradescope.com/courses/42432) by the Entry code: **MXG5G5**

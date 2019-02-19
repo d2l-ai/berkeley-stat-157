@@ -1,5 +1,10 @@
 ## Assignments
 
+**Update on 2/19** Please submit your homework through
+  [gradescope](http://gradescope.com/) instead of Github, so you will get the
+  score distribution for each question. Please enroll in the
+  [class](https://www.gradescope.com/courses/42432) by the Entry code: **MXG5G5**
+
 There are weekly assignments. We strongly discourage you from copying solutions
 of your fellow students since you're depriving yourself of the experience of
 learning how to solve the problems on your own. In particular you won't learn

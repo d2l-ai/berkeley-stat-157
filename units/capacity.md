@@ -14,8 +14,8 @@
 
 ## Content
 
-* [Model Selection](http://d2l.ai/chapter_deep-learning-basics/underfit-overfit.html)
-* [Weight Decay](http://d2l.ai/chapter_deep-learning-basics/weight-decay.html)
-* [Dropout](http://d2l.ai/chapter_deep-learning-basics/dropout.html)
+* [Model Selection](http://d2l.ai/chapter_multilayer-perceptrons/underfit-overfit.html)
+* [Weight Decay](http://d2l.ai/chapter_multilayer-perceptrons/weight-decay.html)
+* [Dropout](http://d2l.ai/chapter_multilayer-perceptrons/dropout.html)
 
 ## Videos

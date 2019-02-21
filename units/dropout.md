@@ -12,8 +12,8 @@
 
 ## Content
 
-* [Numerical Stability and Initialization](http://d2l.ai/chapter_deep-learning-basics/numerical-stability-and-init.html)
-* [Predicting House Prices on Kaggle](http://d2l.ai/chapter_deep-learning-basics/kaggle-house-price.html)
+* [Numerical Stability and Initialization](http://d2l.ai/chapter_multilayer-perceptrons/numerical-stability-and-init.html)
+* [Predicting House Prices on Kaggle](http://d2l.ai/chapter_multilayer-perceptrons/kaggle-house-price.html)
 * [GPU Purchase Guide](http://d2l.ai/chapter_appendix/buy-gpu.html)
 
 ## Videos

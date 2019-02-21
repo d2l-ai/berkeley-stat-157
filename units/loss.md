@@ -26,10 +26,10 @@ submission you will need to use Jupyter.
 
 ## Extended Reading
 
-* [Softmax Regression](http://d2l.ai/chapter_deep-learning-basics/softmax-regression.html)
-* [Fashion MNIST](http://d2l.ai/chapter_deep-learning-basics/fashion-mnist.html)
-* [Softmax Regression from scratch](http://d2l.ai/chapter_deep-learning-basics/softmax-regression-scratch.html)
-* [Softmax Regression - concise version](http://d2l.ai/chapter_deep-learning-basics/softmax-regression-gluon.html)
+* [Softmax Regression](http://d2l.ai/chapter_linear-networks/softmax-regression.html)
+* [Fashion MNIST](http://d2l.ai/chapter_linear-networks/fashion-mnist.html)
+* [Softmax Regression from scratch](http://d2l.ai/chapter_linear-networks/softmax-regression-scratch.html)
+* [Softmax Regression - concise version](http://d2l.ai/chapter_linear-networks/softmax-regression-gluon.html)
 
 ## Videos
 

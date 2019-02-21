@@ -12,7 +12,7 @@ This class provides a practical introduction to deep learning, including theoret
 | 2/7  | [Multilayer Perceptron](units/mlp.html) |
 | 2/12 | [Model Selection, Weight Decay, Dropout](units/capacity.html) |
 | 2/14 | [Numerical Stability, Hardware](units/dropout.html) |
-| 2/19 | Environment |
+| 2/19 | [Environment](units/environment.html) |
 | 2/21 | Layers, Blocks, Parameters and GPUs|
 | 2/26 | Convolutional Neural Networks (padding, stride, pooling, channels) |
 | 2/28 | LeNet, AlexNet, Blocks |

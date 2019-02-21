@@ -4,6 +4,6 @@
 
 ## Content
 
-* [Statistical Environment](http://en.diveintodeeplearning.org/chapter_deep-learning-basics/environment.html)
+* [Statistical Environment](http://en.diveintodeeplearning.org/chapter_multilayer-perceptrons/environment.html)
 
 ## Videos

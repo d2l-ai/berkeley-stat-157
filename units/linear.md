@@ -17,9 +17,9 @@
 
 ## Content
 
-* [Linear Regression](http://d2l.ai/chapter_deep-learning-basics/linear-regression.html)
-* [Linear Regression Implementation from Scratch](http://d2l.ai/chapter_deep-learning-basics/linear-regression-scratch.html)
-* [Concise Implementation of Linear Regression](http://d2l.ai/chapter_deep-learning-basics/linear-regression-gluon.html)
+* [Linear Regression](http://d2l.ai/chapter_linear-networks/linear-regression.html)
+* [Linear Regression Implementation from Scratch](http://d2l.ai/chapter_linear-networks/linear-regression-scratch.html)
+* [Concise Implementation of Linear Regression](http://d2l.ai/chapter_linear-networks/linear-regression-gluon.html)
 
 
 ## Videos

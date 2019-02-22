@@ -9,13 +9,13 @@
 
 ## Content
 
-[Statistical Environment](http://en.diveintodeeplearning.org/http://d2l.ai/chapter_multilayer-perceptrons/environment.html)
+[Statistical Environment](http://d2l.ai/chapter_multilayer-perceptrons/environment.html)
 
 ## Homework
 
 The homework submission has switched to Gradescope. Please look at the
   instructions on the
-  noteook. [Jupyter](../../homeworks/homework5.ipynb) and 
+  noteook. [Jupyter](../../homeworks/homework5.ipynb) and
   [PDF](../../homeworks/homework5.pdf)
 
 ## Videos
@@ -35,4 +35,3 @@ The homework submission has switched to Gradescope. Please look at the
 <center><iframe width="560" height="441" src="https://www.youtube.com/embed/mMrrFxfmqgQ" frameborder="0" allowfullscreen></iframe></center>
 
 <center><iframe width="560" height="441" src="https://www.youtube.com/embed/gX6YjBaARsA" frameborder="0" allowfullscreen></iframe></center>
-

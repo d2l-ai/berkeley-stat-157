@@ -17,8 +17,9 @@
 
 ## News
 
+- 2/21: Added slides for 2/19 and 2/21
 - 2/19: Added homework 5.
-- 2/16: Add slides for 2/12 and 2/14
+- 2/16: Added slides for 2/12 and 2/14
 - 2/12: Added homework 4.
 - 2/11: Added solution for homework 2.
 - 2/6: Added homework 3, and solution for homework 1. Uploaded slides for 2/5.

@@ -9,7 +9,7 @@
 
 ## Content
 
-[Statistical Environment](http://d2l.ai/chapter_multilayer-perceptrons/environment.html)
+- [Statistical Environment](http://d2l.ai/chapter_multilayer-perceptrons/environment.html)
 
 ## Homework
 

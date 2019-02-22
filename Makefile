@@ -9,6 +9,7 @@ OBJ = $(patsubst %.md, build/%.md, $(MARKDOWN))
 
 html: $(OBJ)
 	make -C build html
+	make -C build linkcheck
 	cp -rf media slides homeworks build/_build/html/
 
 clean:

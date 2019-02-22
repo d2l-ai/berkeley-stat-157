@@ -73,7 +73,6 @@ to research leading up to a paper.
    :hidden:
 
    syllabus
-   calendar
    homework
    project
    faq

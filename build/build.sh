@@ -7,4 +7,5 @@ conda env update -f build/environment.yml
 # source activate berkeley-stat-157
 conda activate berkeley-stat-157
 
+make clean
 make html

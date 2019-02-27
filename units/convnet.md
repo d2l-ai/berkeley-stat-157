@@ -2,6 +2,24 @@
 
 ## Slides
 
+* Convolutions
+  [keynote](../../slides/2_26/11-Convolution.key)
+  [PDF](../../slides/2_26/11-Convolution.pdf)
+* Jupyter notebooks
+  * Channels [Jupyter](../../slides/2_26/channels.ipynb),
+  [PDF](../../slides/2_26/channels.pdf)
+  * LeNet [Jupyter](../../slides/2_26/lenet.ipynb),
+  [PDF](../../slides/2_26/lenet.pdf)
+  * Pooling [Jupyter](../../slides/2_26/pooling.ipynb),
+  [PDF](../../slides/2_26/pooling.pdf)
+  * Convolutions [Jupyter](../../slides/2_26/conv-layer.ipynb),
+  [PDF](../../slides/2_26/conv-layer.pdf)
+  * Padding and Stride [Jupyter](../../slides/2_26/padding-and-strides.ipynb),
+  [PDF](../../slides/2_26/padding-and-strides.pdf)
+
+<center><iframe src="http://docs.google.com/gview?url=http://courses.d2l.ai/berkeley-stat-157/slides/2_26/11-Convolution.pdf&embedded=true" 
+    style="width:600px; height:400px;" frameborder="0"></iframe></center>
+
 ## Content
 
 * [Convolutional Neural Networks](http://en.diveintodeeplearning.org/chapter_convolutional-neural-networks/why-conv.html)
@@ -11,3 +29,24 @@
 * [Pooling](http://en.diveintodeeplearning.org/chapter_convolutional-neural-networks/pooling.html)
 
 ## Videos
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/o8jZHKviVAg" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/ssyW3VF263g" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/XXiEr5M2LTg" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/L24TH84fJPE" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/Za6lkNg1_xY" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/7fDQt-HFaEw" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/QjaCvmR3fWA" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/mxmsQwzMoKM" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/HcB4HsNJ6R0" frameborder="0" allowfullscreen></iframe></center>
+
+
+

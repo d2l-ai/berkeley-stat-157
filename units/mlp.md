@@ -25,3 +25,10 @@
 * [Multilayer Perceptron in Gluon](http://en.diveintodeeplearning.org/chapter_multilayer-perceptrons/mlp-gluon.html)
 
 ## Videos
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/taUP7hiEe6w" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/sdW0MAPpkwQ" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/HoUxqM98iPE" frameborder="0" allowfullscreen></iframe></center>
+

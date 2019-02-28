@@ -24,6 +24,10 @@
 
 ## Videos
 
-(TODO mli, need to re-record one video)
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/A4EwUUPc0fk" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/AKmrGw5rV8o" frameborder="0" allowfullscreen></iframe></center>
 
 <center><iframe width="560" height="441" src="https://www.youtube.com/embed/qDYZwfdJuwA" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/mijDNlie6ZE" frameborder="0" allowfullscreen></iframe></center>

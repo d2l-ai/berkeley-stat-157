@@ -17,3 +17,7 @@
 * [GPU Purchase Guide](http://d2l.ai/chapter_appendix/buy-gpu.html)
 
 ## Videos
+
+## Videos
+
+

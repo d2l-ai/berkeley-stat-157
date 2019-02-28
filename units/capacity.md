@@ -19,3 +19,14 @@
 * [Dropout](http://d2l.ai/chapter_multilayer-perceptrons/dropout.html)
 
 ## Videos
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/XCkzfOVoREI" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/byDDJ2aX5lw" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/qD5RUHO84dU" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/NhgkLXpZYj4" frameborder="0" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/p6s46XrHCFQ" frameborder="0" allowfullscreen></iframe></center>
+

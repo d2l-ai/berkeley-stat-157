@@ -14,14 +14,14 @@ This class provides a practical introduction to deep learning, including theoret
 | 2/14 | [Numerical Stability, Hardware](units/dropout.html) |
 | 2/19 | [Environment](units/environment.html) |
 | 2/21 | [Layers, Parameters, GPUs](units/layers.html) |
-| 2/26 | Convolutional Neural Networks (padding, stride, pooling, channels) |
-| 2/28 | LeNet, AlexNet, Blocks |
+| 2/26 | [Convolutional Layers](units/convnet.html)
+| 2/28 | [LeNet, AlexNet, VGG, NiN](units/lenet.html) |
 | 3/5  | Project Midterm Presentation |
-| 3/7  | Network in Network, Parallel Combination |
-| 3/12 | Residual Networks, Batch Normalization |
-| 3/14 | Making it work - 100 dogs (ImageNet subset, finetuning) |
+| 3/7  | Inception, Residual Networks |
+| 3/12 | Computation Performance, Multi-GPU and Multi-Machine Training |
+| 3/14 | Image Augmentation, Fine Turning |
 | 3/19 | Midterm Exam |
-| 3/21 | TBD |
+| 3/21 | Object Detection |
 | 4/2  | TBD |
 | 4/4  | Sequence models and Language |
 | 4/9  | Recurrent neural networks, Making it work - language modeling |

@@ -26,3 +26,12 @@
 * [NiN](http://en.diveintodeeplearning.org/chapter_convolutional-neural-networks/nin.html)
 
 ## Videos
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/m3BrTjo2zUA" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/L40sFs_-W_o" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/OAW1e0WPmkM" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/0Up4L6A97Gw" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/Nf1BlOR8kVY" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/gZvukUGKr2k" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/bBwEnMGcOiA" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/hV_a6jJIDLE" frameborder="0" allowfullscreen></iframe></center>

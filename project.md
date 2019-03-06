@@ -44,6 +44,6 @@ regenerate the results (after some work but no guesswork) reliably.
 
 .. toctree::
    :maxdepth: 1
+
    projects/1
-   projects/2
 ```

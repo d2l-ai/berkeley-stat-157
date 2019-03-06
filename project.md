@@ -46,4 +46,21 @@ regenerate the results (after some work but no guesswork) reliably.
    :maxdepth: 1
 
    projects/1
+   projects/2
+   projects/3
+   projects/4
+   projects/5
+   projects/7
+   projects/8
+   projects/8
+   projects/10
+   projects/11
+   projects/12
+   projects/14
+   projects/15
+   projects/16
+   projects/17
+   projects/18
+   projects/19
+   projects/20
 ```

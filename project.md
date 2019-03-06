@@ -52,7 +52,7 @@ regenerate the results (after some work but no guesswork) reliably.
    projects/5
    projects/7
    projects/8
-   projects/8
+   projects/9
    projects/10
    projects/11
    projects/12

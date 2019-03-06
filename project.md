@@ -1,4 +1,4 @@
-# Project
+# Projects
 
 The project is really the centerpiece of this class. It is your opportunity to try out and see how to do research. We imposed *a lot of constraints*. They are due to the fact that we've seen many teams in the past delay things until the last minute and then run out of time. The constraints are there to nudge you (rather strongly) to get things done in time and to have a great project.
 
@@ -37,4 +37,13 @@ end. It should describe your work in a reproducible manner, i.e. in
 enough detail that someone competent could take the report and
 regenerate the results (after some work but no guesswork) reliably.
 
+## List of Projects
 
+
+```eval_rst
+
+.. toctree::
+   :maxdepth: 1
+   projects/1
+   projects/2
+```

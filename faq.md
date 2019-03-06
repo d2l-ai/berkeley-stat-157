@@ -20,26 +20,14 @@ This course is heavy on hands-on experience. Hence the project carries a signifi
 
 There are weekly assignments. We strongly discourage you from copying solutions of your fellow students since you're depriving yourself of the experience of learning how to solve the problems on your own. In particular you won't learn useful things for the exams and projects this way. Or for that matter, from the course. That said, you *should* discuss the solutions with others. You will likely benefit from that.
 
-Assignments are due on Tuesdays. You must hand in the assignments by the end of the lecture, i.e. by 5pm, either in paper or by e-mail to [berkeley-stat-157@googlegroups.com](mailto://berkeley-stat-157@googlegroups.com). Programming assignments are to be submitted as Jupyter Notebooks **with their execution traces saved**. 
 
-* [Set 1](homeworks/homework1.ipynb) - **January 29, 2019**
-* Set 2 - **February 5, 2019**
-* Set 3 - **February 12, 2019**
-* Set 4 - **February 19, 2019**
-* Set 5 - **February 26, 2019**
-* Set 6 - **March 12, 2019**
-* Set 7 - **April 2, 2019**
-* Set 8 - **April 9, 2019**
-* Set 9 - **April 16, 2019**
-* Set 10 - **April 30, 2019**
-
-*The 9 best out of 10 homeworks count*. That is, you can skip one homework or you can simply do them all and we'll only count the 9 best ones. Beyond that, you can be late *once* for *two days*, i.e. you can submit *one* home work on a Thursday by the end of the class. We will make the homeworks available online the day the previous homework is due, possibly earlier (some finetuning is required since we need to ensure that we'll cover the content of the homework in the class). The TAs will return the graded homework within 2 weeks of submission. 
+*The 9 best out of 10 homeworks count*. That is, you can skip one homework or you can simply do them all and we'll only count the 9 best ones. Beyond that, you can be late *once* for *two days*, i.e. you can submit *one* home work on a Thursday by the end of the class. We will make the homeworks available online the day the previous homework is due, possibly earlier (some finetuning is required since we need to ensure that we'll cover the content of the homework in the class). The TAs will return the graded homework within 2 weeks of submission.
 
 ## Exams
 
-There's only one exam - at the midterm. The purpose of this is to ensure that everyone is on track and to give feedback in case you aren't. 
+There's only one exam - at the midterm. The purpose of this is to ensure that everyone is on track and to give feedback in case you aren't.
 
-The midterm exam will be held on **March 19, 2019**. This is an open book exam, i.e. you can bring anything you want, as long as it doesn't consume electricity. In other words, looking up paper is OK but looking up things online to 'google' the solution is not allowed. Likewise, it isn't cool if you ask your friends online for realtime support for solutions. Hence, paper only. 
+The midterm exam will be held on **March 19, 2019**. This is an open book exam, i.e. you can bring anything you want, as long as it doesn't consume electricity. In other words, looking up paper is OK but looking up things online to 'google' the solution is not allowed. Likewise, it isn't cool if you ask your friends online for realtime support for solutions. Hence, paper only.
 
 ## Project
 
@@ -54,5 +42,3 @@ The project is really the centerpiece of this class. It is a *teamwork* effort a
 * Project signoff from the TAs is due in the week of **April 22-25, 2019**. That is, you must meet with the TAs to discuss your project. They will give you some suggestions and likely help you improve the project. It is in your interest to get feedback early and to take advantage of it. Do it, since you get points for that (and your project will be better).
 * The final project presentations are on **May 7 and 9, 2019** in lieu of a final exam.
 * You will be expected to provide a report describing the project in the end. It should describe your work in a reproducible manner, i.e. in enough detail that someone competent could take the report and regenerate the results (after some work but no guesswork) reliably.
-
-

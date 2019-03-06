@@ -77,6 +77,6 @@ to research leading up to a paper.
    syllabus
    homework
    project
-   faq
    units/index
+   faq
 ```

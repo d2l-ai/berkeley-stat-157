@@ -17,7 +17,6 @@
    layers
    convnet
    lenet
-   nin
    resnet
    makingitwork
    sequence

@@ -25,3 +25,9 @@
 * [Densely Connected Networks](http://en.diveintodeeplearning.org/chapter_convolutional-neural-networks/densenet.html)
 
 ## Videos
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/jikAvn68mYY" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/OikGdX8eB_o" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/xSic5Pst7AI" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/I316iG-3yZs" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/lugkZaFj4x8" frameborder="0" allowfullscreen></iframe></center>

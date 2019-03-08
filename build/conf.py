@@ -62,5 +62,6 @@ html_sourcelink_suffix = ''
 
 def setup(app):
     app.add_transform(AutoStructify)
+    app.add_javascript('google_analytics.js')
     app.add_config_value('recommonmark_config', {
     }, True)

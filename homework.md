@@ -45,7 +45,7 @@ tell us otherwise).
 | 3   | 2/12/2019 | [Jupyter](homeworks/homework3.ipynb), [PDF](homeworks/homework3.pdf)| |
 | 4   | 2/19/2019 | [Jupyter](homeworks/homework4.ipynb), [PDF](homeworks/homework4.pdf)| |
 | 5   | 2/26/2019 | [Jupyter](homeworks/homework5.ipynb), [PDF](homeworks/homework5.pdf)| |
-| 6   | 3/12/2019 | | |
+| 6   | 3/12/2019 | [Jupyter](homeworks/homework6.ipynb), [PDF](homeworks/homework6.pdf)| |
 | 7   | 4/2/2019  | | |
 | 8   | 4/9/2019  | | |
 | 9   | 4/16/2019 | | |

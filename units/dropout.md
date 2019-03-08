@@ -18,6 +18,9 @@
 
 ## Videos
 
-## Videos
-
-
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/OWQNTURBdxw" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/m1gt7nxbB2k" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/MbEUS06C0Eo" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/Ed4Sk77qRgs" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/IaVOBkCvSmo" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/Fdgpe8StGb8" frameborder="0" allowfullscreen></iframe></center>

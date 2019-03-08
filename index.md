@@ -17,6 +17,9 @@
 
 ## News
 
+- 3/5: Added midterm presentations
+- 3/5: Added homework 6.
+- 3/3: Added slides and (re-recorded) videos for lectures before 3/3.
 - 2/21: Added slides for 2/19 and 2/21
 - 2/19: Added homework 5.
 - 2/16: Added slides for 2/12 and 2/14
@@ -75,6 +78,6 @@ to research leading up to a paper.
    syllabus
    homework
    project
-   faq
    units/index
+   faq
 ```

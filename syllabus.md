@@ -17,7 +17,7 @@ This class provides a practical introduction to deep learning, including theoret
 | 2/26 | [Convolutional Layers](units/convnet.html)
 | 2/28 | [LeNet, AlexNet, VGG, NiN](units/lenet.html) |
 | 3/5  | [Project Midterm Presentation](project.html) |
-| 3/7  | Inception, Residual Networks |
+| 3/7  | [Inception, Residual Networks](units/resnet.html) |
 | 3/12 | Computation Performance, Multi-GPU and Multi-Machine Training |
 | 3/14 | Image Augmentation, Fine Turning |
 | 3/19 | Midterm Exam |

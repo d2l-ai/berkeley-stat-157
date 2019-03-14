@@ -17,6 +17,7 @@
 
 ## News
 
+- 3/13: Added slides/videos for lectures on 3/12, including midterm exam logistics
 - 3/5: Added midterm presentations
 - 3/5: Added homework 6.
 - 3/3: Added slides and (re-recorded) videos for lectures before 3/3.

@@ -18,6 +18,7 @@
    convnet
    lenet
    resnet
+   parallel
    makingitwork
    sequence
    rnn
@@ -26,7 +27,6 @@
    optimization
    sgd
    adam
-   parallel
    imagenet
 ```
 

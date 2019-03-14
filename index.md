@@ -69,6 +69,8 @@ project__ (50%) which will be presented in lieu of an end-of-course
 exam. As part of the course you will be performing work that's similar
 to research leading up to a paper.
 
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/?listType=playlist&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW" frameborder="0" allowfullscreen></iframe></center>
+
 
 ```eval_rst
 

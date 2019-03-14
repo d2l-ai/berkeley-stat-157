@@ -16,12 +16,12 @@
 
 ## Content
 
-* [Blocks and Layers](http://d2l.ai/chapter_gluon-fundamentals/model-construction.html)
-* [Parameter Management](http://d2l.ai/chapter_gluon-fundamentals/parameters.html)
-* [Deferred Initialization](http://d2l.ai/chapter_gluon-fundamentals/deferred-init.html)
-* [Custom Layers](http://d2l.ai/chapter_gluon-fundamentals/custom-layer.html)
-* [File I/O](http://d2l.ai/chapter_gluon-fundamentals/read-write.html)
-* [GPUs](http://d2l.ai/chapter_gluon-fundamentals/use-gpu.html)
+* [Blocks and Layers](http://d2l.ai/chapter_deep-learning-computation/model-construction.html)
+* [Parameter Management](http://d2l.ai/chapter_deep-learning-computation/parameters.html)
+* [Deferred Initialization](http://d2l.ai/chapter_deep-learning-computation/deferred-init.html)
+* [Custom Layers](http://d2l.ai/chapter_deep-learning-computation/custom-layer.html)
+* [File I/O](http://d2l.ai/chapter_deep-learning-computation/read-write.html)
+* [GPUs](http://d2l.ai/chapter_deep-learning-computation/use-gpu.html)
 
 
 ## Videos

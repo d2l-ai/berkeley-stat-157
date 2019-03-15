@@ -27,3 +27,8 @@
 <center><iframe width="560" height="441" src="https://www.youtube.com/embed/CsQQM9PaRWg" frameborder="0" allowfullscreen></iframe></center>
 <center><iframe width="560" height="441" src="https://www.youtube.com/embed/TCoklVdJ6WA" frameborder="0" allowfullscreen></iframe></center>
 <center><iframe width="560" height="441" src="https://www.youtube.com/embed/XLw1mmugcEQ" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/AFNPKfp35PQ" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/APnPOzsLFZk" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/o_q6kGV2UNk" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/1GkJMDKdTcE" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/fagsHGq8DBg" frameborder="0" allowfullscreen></iframe></center>

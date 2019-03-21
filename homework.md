@@ -46,9 +46,9 @@ tell us otherwise).
 | 4   | 2/19/2019 | [Jupyter](homeworks/homework4.ipynb), [PDF](homeworks/homework4.pdf)| [PDF](homeworks/homework4_top.pdf) |
 | 5   | 2/26/2019 | [Jupyter](homeworks/homework5.ipynb), [PDF](homeworks/homework5.pdf)| [PDF](homeworks/homework5_solutions.pdf)|
 | 6   | 3/12/2019 | [Jupyter](homeworks/homework6.ipynb), [PDF](homeworks/homework6.pdf)| |
-| 7   | 4/2/2019  | | |
-| 8   | 4/9/2019  | | |
-| 9   | 4/16/2019 | | |
+| 7   | 4/9/2019  | | |
+| 8   | 4/16/2019  | | |
+| 9   | 4/23/2019 | | |
 | 10  | 4/30/2019 | | |
 
 ### Grading

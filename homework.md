@@ -43,10 +43,10 @@ tell us otherwise).
 | 1   | 1/29/2019 | [Jupyter](homeworks/homework1.ipynb), [PDF](homeworks/homework1.pdf) | [PDF](homeworks/homework1_solutions.pdf)|
 | 2   | 2/5/2019  | [Jupyter](homeworks/homework2.ipynb), [PDF](homeworks/homework2.pdf) | [PDF](homeworks/homework2_solution.pdf)|
 | 3   | 2/12/2019 | [Jupyter](homeworks/homework3.ipynb), [PDF](homeworks/homework3.pdf)| [PDF](homeworks/homework3_solutions.pdf) |
-| 4   | 2/19/2019 | [Jupyter](homeworks/homework4.ipynb), [PDF](homeworks/homework4.pdf)| [PDF](homeworks/homework4_top.pdf) |
+| 4   | 2/19/2019 | [Jupyter](homeworks/homework4.ipynb), [PDF](homeworks/homework4.pdf)|  |
 | 5   | 2/26/2019 | [Jupyter](homeworks/homework5.ipynb), [PDF](homeworks/homework5.pdf)| [PDF](homeworks/homework5_solutions.pdf)|
-| 6   | 3/12/2019 | [Jupyter](homeworks/homework6.ipynb), [PDF](homeworks/homework6.pdf)| |
-| 7   | 4/9/2019  | | |
+| 6   | 3/12/2019 | [Jupyter](homeworks/homework6.ipynb), [PDF](homeworks/homework6.pdf)| [PDF](homeworks/homework6_winner.pdf)|
+| 7   | 4/9/2019  | [Jupyter](homeworks/homework7.ipynb), [PDF](homeworks/homework7.pdf)| |
 | 8   | 4/16/2019  | | |
 | 9   | 4/23/2019 | | |
 | 10  | 4/30/2019 | | |

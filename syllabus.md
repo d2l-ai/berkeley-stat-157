@@ -19,10 +19,10 @@ This class provides a practical introduction to deep learning, including theoret
 | 3/5  | [Project Midterm Presentation](project.html) |
 | 3/7  | [Inception, Residual Networks](units/resnet.html) |
 | 3/12 | [Computation Performance, Multi-GPU and Multi-Machine Training](units/parallel.html) |
-| 3/14 | Image Augmentation, Fine Turning |
+| 3/14 | [Image Augmentation, Fine Turning](units/finetuning.html) |
 | 3/19 | Midterm Exam |
-| 3/21 | Object Detection |
-| 4/2  | TBD |
+| 3/21 | Object Detection I |
+| 4/2  | Object Detection II |
 | 4/4  | Sequence models and Language |
 | 4/9  | Recurrent neural networks, Making it work - language modeling |
 | 4/11 | Truncated Backprop, Gated Recurrent Unit, Long Short Term Memory |
@@ -30,7 +30,7 @@ This class provides a practical introduction to deep learning, including theoret
 | 4/18 | Optimization Basics (convexity, gradient descent) |
 | 4/23 | Stochastic gradient descent), Momentum |
 | 4/25 | AdaGrad, Adam, Conditioning, Yogi |
-| 4/30 | Parallel Computing (synchronous, asynchronous, parameter server) |
-| 5/2  | Making it work - Large scale computer vision models |
+| 4/30 | TBD |
+| 5/2  | TBD |
 | 5/7  | Project Final Presentation |
 | 5/10 | Project Final Presentation |

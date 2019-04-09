@@ -21,8 +21,8 @@ This class provides a practical introduction to deep learning, including theoret
 | 3/12 | [Computation Performance, Multi-GPU and Multi-Machine Training](units/parallel.html) |
 | 3/14 | [Image Augmentation, Fine Turning](units/finetuning.html) |
 | 3/19 | Midterm Exam |
-| 3/21 | Object Detection I |
-| 4/2  | Object Detection II |
+| 3/21 | [Object Detection I](units/detection.html) |
+| 4/2  | [Object Detection II, CNN Training Tricks](units/detection.html)  |
 | 4/4  | Sequence models and Language |
 | 4/9  | Recurrent neural networks, Making it work - language modeling |
 | 4/11 | Truncated Backprop, Gated Recurrent Unit, Long Short Term Memory |

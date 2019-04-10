@@ -3,11 +3,9 @@
 ## Slides
 
 * Language Models and Sequences
-  [keynote](../../slides/4_4/18-Sequence_Models.key)
+  [Keynote](../../slides/4_4/18-Sequence_Models.key)
   [PDF](../../slides/4_4/18-Sequence_Models.pdf)
-
 * Notebooks
-  
   - Language Model Datasets
   	[Jupyter](../../slides/4_4/lang-model-dataset.ipynb), [PDF](../../slides/4_4/lang-model-dataset.pdf) 
   - Language Model

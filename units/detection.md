@@ -8,9 +8,15 @@
 
 * Notebooks
 
-  - Object Detection Datasets [Jupyter](../../slides/3_21/object-detection-dataset.ipynb )
-  - Boxes in Object Detection [Jupyter](../../slides/3_21/bounding-box.ipynb)
-  - Single Shot Multibox Detection [Jupyter](../../slides/3_21/ssd.ipynb)
+  - Object Detection Datasets
+    [Jupyter](../../slides/3_21/object-detection-dataset.ipynb), [PDF](../../slides/3_21/object-detection-dataset.pdf)
+  - Boxes in Object Detection
+    [Jupyter](../../slides/3_21/bounding-box.ipynb), [PDF](../../slides/3_21/bounding-box.pdf)
+  - Single Shot Multibox Detection
+    [Jupyter](../../slides/3_21/ssd.ipynb), [PDF](../../slides/3_21/ssd.pdf)
+
+<center><iframe src="http://docs.google.com/gview?url=http://courses.d2l.ai/berkeley-stat-157/slides/3_21/16-Detection.pdf&embedded=true" 
+    style="width:600px; height:400px;" frameborder="0"></iframe></center>
 
 
 ## Content

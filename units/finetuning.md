@@ -8,9 +8,13 @@
 
 * Notebooks
 
-  - Image Augmentation [Jupyter](../../slides/3_14/image-augmentation.ipynb)
-  - Finetuning [Jupyter](../../slides/3_14/fine-tuning.ipynb)
-  - Style Transfer [Jupyter](../../slides/3_14/neural-style.ipynb)
+  - Image Augmentation
+    [Jupyter](../../slides/3_14/image-augmentation.ipynb), [PDF](../../slides/3_14/image-augmentation.pdf)
+  - Finetuning [Jupyter](../../slides/3_14/fine-tuning.ipynb), [PDF](../../slides/3_14/fine-tuning.pdf)
+  - Style Transfer [Jupyter](../../slides/3_14/neural-style.ipynb), [PDF](../../slides/3_14/neural-style.pdf)
+
+<center><iframe src="http://docs.google.com/gview?url=http://courses.d2l.ai/berkeley-stat-157/slides/3_14/15-Finetune.pdf&embedded=true" 
+    style="width:600px; height:400px;" frameborder="0"></iframe></center>
 
 ## Content
 

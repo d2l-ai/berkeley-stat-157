@@ -8,11 +8,16 @@
 
 * Notebooks
 
-  - Hybridization [Jupyter](../../slides/3_12/hybridize.ipynb)
-  - Asynchronous [Jupyter](../../slides/3_12/async-computation.ipynb)
-  - Auto Parallelism [Jupyter](../../slides/3_12/auto-parallelism.ipynb)
-  - Multiple GPUs [Jupyter](../../slides/3_12/multiple-gpus.ipynb)
-  - Multiple GPUs in Gluon [Jupyter](../../slides/3_12/multiple-gpus-gluon.ipynb)
+  - Hybridization [Jupyter](../../slides/3_12/hybridize.ipynb), [PDF](../../slides/3_12/hybridize.pdf)
+  - Asynchronous [Jupyter](../../slides/3_12/async-computation.ipynb), [PDF](../../slides/3_12/async-computation.pdf)
+  - Auto Parallelism
+    [Jupyter](../../slides/3_12/auto-parallelism.ipynb), [PDF](../../slides/3_12/auto-parallelism.pdf)
+  - Multiple GPUs [Jupyter](../../slides/3_12/multiple-gpus.ipynb), [PDF](../../slides/3_12/multiple-gpus.pdf)
+  - Multiple GPUs in Gluon
+    [Jupyter](../../slides/3_12/multiple-gpus-gluon.ipynb), [PDF](../../slides/3_12/multiple-gpus-gluon.pdf)
+
+<center><iframe src="http://docs.google.com/gview?url=http://courses.d2l.ai/berkeley-stat-157/slides/3_12/14-Performance.pdf&embedded=true" 
+    style="width:600px; height:400px;" frameborder="0"></iframe></center>
 
 ## Content
 

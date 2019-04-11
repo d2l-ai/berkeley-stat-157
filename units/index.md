@@ -20,6 +20,7 @@
    resnet
    parallel
    finetuning
+   detection
    sequence
    rnn
    bptt

@@ -25,7 +25,7 @@ This class provides a practical introduction to deep learning, including theoret
 | 4/2  | [Object Detection II, CNN Training Tricks](units/detection.html)  |
 | 4/4  | [Sequence models and Language](units/sequence.html) |
 | 4/9  | [Recurrent neural networks, Making it work - language modeling](units/rnn.html) |
-| 4/11 | Truncated Backprop, Gated Recurrent Unit, Long Short Term Memory |
+| 4/11 | [Truncated Backprop, Gated Recurrent Unit, Long Short Term Memory](units/rnn.html) |
 | 4/16 | Bi-LSTM, Deep RNNs |
 | 4/18 | Optimization Basics (convexity, gradient descent) |
 | 4/23 | Stochastic gradient descent), Momentum |

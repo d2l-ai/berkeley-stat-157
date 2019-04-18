@@ -47,8 +47,8 @@ tell us otherwise).
 | 5   | 2/26/2019 | [Jupyter](homeworks/homework5.ipynb), [PDF](homeworks/homework5.pdf)| [PDF](homeworks/homework5_solutions.pdf)|
 | 6   | 3/12/2019 | [Jupyter](homeworks/homework6.ipynb), [PDF](homeworks/homework6.pdf)| [PDF](homeworks/homework6_winner.pdf)|
 | 7   | 4/9/2019  | [Jupyter](homeworks/homework7.ipynb), [PDF](homeworks/homework7.pdf)| |
-| 8   | 4/16/2019  |[Jupyter](homeworks/homework8.ipynb), [PDF](homeworks/homework8.pdf)| |
-| 9   | 4/23/2019 | | |
+| 8   | 4/16/2019 | [Jupyter](homeworks/homework8.ipynb), [PDF](homeworks/homework8.pdf)| |
+| 9   | 4/23/2019 | [Jupyter](homeworks/homework9.ipynb), [PDF](homeworks/homework9.pdf)| |
 | 10  | 4/30/2019 | | |
 
 ### Grading

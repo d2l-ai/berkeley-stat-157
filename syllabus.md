@@ -33,4 +33,4 @@ This class provides a practical introduction to deep learning, including theoret
 | 4/30 | Convex Optimization, Convergence Rate |
 | 5/2  | Momentum, AdaGrad, RMSProp, AdaDelta, Adam |
 | 5/7  | Project Final Presentation |
-| 5/10 | Project Final Presentation |
+| 5/9  | Project Final Presentation |

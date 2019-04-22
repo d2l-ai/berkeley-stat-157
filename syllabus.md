@@ -26,7 +26,7 @@ This class provides a practical introduction to deep learning, including theoret
 | 4/4  | [Sequence models and Language](units/sequence.html) |
 | 4/9  | [Recurrent neural networks, Making it work - language modeling](units/rnn.html) |
 | 4/11 | [Truncated Backprop, Gated Recurrent Unit, Long Short Term Memory](units/rnn.html) |
-| 4/16 | Bi-LSTM, Deep RNNs |
+| 4/16 | [Bi-LSTM, Deep RNNs](units/blstm.html) |
 | 4/18 | [Word2vec, FastText, GloVe, Sentiment Analysis](units/word2vec.html) |
 | 4/23 | Encoder-Decoder, Seq2seq, Machine Translation |
 | 4/25 | Attention, Transformer, GPT, BERT |

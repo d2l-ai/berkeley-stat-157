@@ -17,6 +17,7 @@
 
 ## News
 
+- 4/18: Added homework 9
 - 4/9: Added slides/vidoes for lectures 3/21, 4/2, 4/4. Uploaded homework 8.
 - 4/2: Added solutions to homework 6, uploaded homework 7.
 - 3/18: Added solutions to homework 5.

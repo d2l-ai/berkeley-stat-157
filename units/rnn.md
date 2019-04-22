@@ -4,7 +4,7 @@
 
 * Recurrent Neural Networks, Code, Latent Variable Models
   [Keynote](../../slides/4_9/19-RNN.key)
-  [PDF](../../slides/4_4/19-RNN.pdf)
+  [PDF](../../slides/4_9/19-RNN.pdf)
 * Notebooks
   - Sequence Models
     [Jupyter](../../slides/4_9/sequence.ipynb), [PDF](../../slides/4_9/sequence.pdf) 

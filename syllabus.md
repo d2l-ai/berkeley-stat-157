@@ -27,10 +27,10 @@ This class provides a practical introduction to deep learning, including theoret
 | 4/9  | [Recurrent neural networks, Making it work - language modeling](units/rnn.html) |
 | 4/11 | [Truncated Backprop, Gated Recurrent Unit, Long Short Term Memory](units/rnn.html) |
 | 4/16 | Bi-LSTM, Deep RNNs |
-| 4/18 | Optimization Basics (convexity, gradient descent) |
-| 4/23 | Stochastic gradient descent), Momentum |
-| 4/25 | AdaGrad, Adam, Conditioning, Yogi |
-| 4/30 | TBD |
-| 5/2  | TBD |
+| 4/18 | [Word2vec, FastText, GloVe, Sentiment Analysis](units/word2vec.html) |
+| 4/23 | Encoder-Decoder, Seq2seq, Machine Translation |
+| 4/25 | Attention, Transformer, GPT, BERT |
+| 4/30 | Convex Optimization, Convergence Rate |
+| 5/2  | Momentum, AdaGrad, RMSProp, AdaDelta, Adam |
 | 5/7  | Project Final Presentation |
-| 5/10 | Project Final Presentation |
+| 5/9  | Project Final Presentation |

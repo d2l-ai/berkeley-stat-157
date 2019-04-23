@@ -7,9 +7,9 @@
   [PDF](../../slides/4_18/22-Embedding.pdf)
 
 * Jupyter notebooks
-  * Word2vec [Jupyter](../../slides/4_18/word2vec-gluon.ipynb)
-  * Similarity and Analogy [Jupyter](../../slides/4_18/similarity-analogy.ipynb)
-  * Sentiment Analysis [Jupyter](../../slides/4_18/sentiment-analysis-rnn.ipynb)
+  * Word2vec [Jupyter](../../slides/4_18/word2vec-gluon.ipynb) [HTML](https://nbviewer.jupyter.org/url/courses.d2l.ai/berkeley-stat-157/slides/4_18/word2vec-gluon.ipynb)
+  * Similarity and Analogy [Jupyter](../../slides/4_18/similarity-analogy.ipynb) [HTML](https://nbviewer.jupyter.org/url/courses.d2l.ai/berkeley-stat-157/slides/4_18/similarity-analogy.ipynb)
+  * Sentiment Analysis [Jupyter](../../slides/4_18/sentiment-analysis-rnn.ipynb) [HTML](https://nbviewer.jupyter.org/url/courses.d2l.ai/berkeley-stat-157/slides/4_18/sentiment-analysis-rnn.ipynb)
 
 ## Vidoes
 

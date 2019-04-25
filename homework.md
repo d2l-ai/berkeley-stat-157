@@ -49,7 +49,7 @@ tell us otherwise).
 | 7   | 4/9/2019  | [Jupyter](homeworks/homework7.ipynb), [PDF](homeworks/homework7.pdf)| |
 | 8   | 4/16/2019 | [Jupyter](homeworks/homework8.ipynb), [PDF](homeworks/homework8.pdf)| |
 | 9   | 4/23/2019 | [Jupyter](homeworks/homework9.ipynb), [PDF](homeworks/homework9.pdf)| |
-| 10  | 4/30/2019 | | |
+| 10  | 4/30/2019 | [Jupyter](homeworks/homework10.ipynb), [PDF](homeworks/homework10.pdf)| |
 
 ### Grading
 

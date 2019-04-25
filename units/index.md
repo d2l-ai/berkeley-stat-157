@@ -23,10 +23,8 @@
    detection
    sequence
    rnn
-   bptt
    blstm
-   optimization
-   sgd
-   adam
-   imagenet
+   word2vec
+   seq2seq
+   attention
 ```

@@ -8,8 +8,8 @@
 
 * Notebooks
   - Machine Translation Dataset
-    [Jupyter](../../slides/4_23/machine-translation.ipynb) [HTML](https://nbviewer.jupyter.org/url/courses.d2l.ai/berkeley-stat-157/slides/4_23/machine-translation.ipynb)
-  - Seq2seq [Jupyter](../../slides/4_23/seq2seq.ipynb) [HTML](https://nbviewer.jupyter.org/url/courses.d2l.ai/berkeley-stat-157/slides/4_23/seq2seq.ipynb)
+    [Jupyter](../../slides/4_23/machine-translation.ipynb)
+  - Seq2seq [Jupyter](../../slides/4_23/seq2seq.ipynb)
 
 ## Videos
 

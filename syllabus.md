@@ -28,8 +28,8 @@ This class provides a practical introduction to deep learning, including theoret
 | 4/11 | [Truncated Backprop, Gated Recurrent Unit, Long Short Term Memory](units/rnn.html) |
 | 4/16 | [Bi-LSTM, Deep RNNs](units/blstm.html) |
 | 4/18 | [Word2vec, FastText, GloVe, Sentiment Analysis](units/word2vec.html) |
-| 4/23 | Encoder-Decoder, Seq2seq, Machine Translation |
-| 4/25 | Attention, Transformer, GPT, BERT |
+| 4/23 | [Encoder-Decoder, Seq2seq, Machine Translation](units/seq2seq.html) |
+| 4/25 | Attention, Transformer, BERT |
 | 4/30 | Convex Optimization, Convergence Rate |
 | 5/2  | Momentum, AdaGrad, RMSProp, AdaDelta, Adam |
 | 5/7  | Project Final Presentation |

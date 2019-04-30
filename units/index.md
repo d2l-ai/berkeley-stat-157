@@ -27,4 +27,6 @@
    word2vec
    seq2seq
    attention
+   optimization
+   adam
 ```

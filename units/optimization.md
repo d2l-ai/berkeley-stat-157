@@ -13,3 +13,6 @@
     [HTML](https://nbviewer.jupyter.org/url/courses.d2l.ai/berkeley-stat-157/slides/4_30/minibatch-sgd.ipynb)
 
 ## Videos
+
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/AYCxfQJV35s" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="441" src="https://www.youtube.com/embed/LJ05Ujfrsk0" frameborder="0" allowfullscreen></iframe></center>

@@ -1,10 +1,9 @@
-# Advanced Optimization Algorithms
+# Momentum, AdaGrad, RMSProp, Adam
 
 ## Slides
 
-## Content
-
-* [Adagrad](http://en.diveintodeeplearning.org/chapter_optimization/adagrad.html)
-* [Adam](http://en.diveintodeeplearning.org/chapter_optimization/adam.html)
+- Notebooks
+  - Momentum, Adagrad, RMSProp
+  - [Jupyter](../../slides/5_2/momentum.ipynb)
 
 ## Videos

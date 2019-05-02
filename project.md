@@ -20,8 +20,8 @@ The project is really the centerpiece of this class. It is your opportunity to t
   least 6 pages using the same [style file](media/latex.zip). The
   upper page limit is 20, including appendix, details, etc.; This is
   to protect the TAs from going crazy with reviewing and grading.
-* The presentation counts **30%** of the project. You need to have at
-  least 6 slides and no more than 20 slides in your presentation.
+* The presentation counts **20%** of the project. You need to have  
+  6 slides in your presentation.
 
 This is a *teamwork* effort and *you must form a team*. The project
 contributes the lion's share to your grades. We will take the number

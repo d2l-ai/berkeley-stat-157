@@ -17,7 +17,8 @@
 
 ## News
 
-- 4/25: Added homework 10 and lecture 4/23 slides and vidoes
+- 5/1: Modified presentation and report scores from 30% and 30% to 20% and 40%. Added slides/videos for lecture 4/25 and 4/30. 
+- 4/25: Added homework 10 and lecture 4/23 slides and videos
 - 4/18: Added homework 9
 - 4/9: Added slides/vidoes for lectures 3/21, 4/2, 4/4. Uploaded homework 8.
 - 4/2: Added solutions to homework 6, uploaded homework 7.

@@ -16,12 +16,11 @@ The project is really the centerpiece of this class. It is your opportunity to t
 * Project presentations are due on **May 7 and 9, 2019**. We picked
   two days to ensure that there's enough time for everyone to present
   their stuff.
-* The written project report counts **30%** and it needs to have at
+* The written project report counts **40%** and it needs to have at
   least 6 pages using the same [style file](media/latex.zip). The
   upper page limit is 20, including appendix, details, etc.; This is
   to protect the TAs from going crazy with reviewing and grading.
-* The presentation counts **20%** of the project. You need to have  
-  6 slides in your presentation.
+* The presentation counts **20%** of the project. You need to have 6 slides in your presentation.
 
 This is a *teamwork* effort and *you must form a team*. The project
 contributes the lion's share to your grades. We will take the number

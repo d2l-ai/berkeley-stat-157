@@ -31,6 +31,6 @@ This class provides a practical introduction to deep learning, including theoret
 | 4/23 | [Encoder-Decoder, Seq2seq, Machine Translation](units/seq2seq.html) |
 | 4/25 | [Attention, Transformer, BERT](units/attention.html) |
 | 4/30 | [Convex Optimization, Convergence Rate](units/optimization.html) |
-| 5/2  | Momentum, AdaGrad, RMSProp, Adam |
+| 5/2  | [Momentum, AdaGrad, RMSProp, Adam](units/adam.html) |
 | 5/7  | Project Final Presentation |
 | 5/9  | Project Final Presentation |

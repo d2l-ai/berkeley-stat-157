@@ -38,14 +38,16 @@ As we proceed, we'll be filling in details. In terms of solutions we'll take the
 liberty to reuse some of your submissions as reference solutions (unless you
 tell us otherwise).
 
+Instructors may request all the homework solutions by emailing rlhu at amazon dot com.
+
 | Set | Due date  | Problems | Solutions |
 |-----|-----------|----------|-----------|
 | 1   | 1/29/2019 | [Jupyter](homeworks/homework1.ipynb), [PDF](homeworks/homework1.pdf) | [PDF](homeworks/homework1_solutions.pdf)|
-| 2   | 2/5/2019  | [Jupyter](homeworks/homework2.ipynb), [PDF](homeworks/homework2.pdf) | [PDF](homeworks/homework2_solution.pdf)|
-| 3   | 2/12/2019 | [Jupyter](homeworks/homework3.ipynb), [PDF](homeworks/homework3.pdf)| [PDF](homeworks/homework3_solutions.pdf) |
-| 4   | 2/19/2019 | [Jupyter](homeworks/homework4.ipynb), [PDF](homeworks/homework4.pdf)| [PDF](homeworks/homework4_solution.pdf) |
-| 5   | 2/26/2019 | [Jupyter](homeworks/homework5.ipynb), [PDF](homeworks/homework5.pdf)| [PDF](homeworks/homework5_solutions.pdf)|
-| 6   | 3/12/2019 | [Jupyter](homeworks/homework6.ipynb), [PDF](homeworks/homework6.pdf)| [PDF](homeworks/homework6_winner.pdf)|
+| 2   | 2/5/2019  | [Jupyter](homeworks/homework2.ipynb), [PDF](homeworks/homework2.pdf) | |
+| 3   | 2/12/2019 | [Jupyter](homeworks/homework3.ipynb), [PDF](homeworks/homework3.pdf)| |
+| 4   | 2/19/2019 | [Jupyter](homeworks/homework4.ipynb), [PDF](homeworks/homework4.pdf)| |
+| 5   | 2/26/2019 | [Jupyter](homeworks/homework5.ipynb), [PDF](homeworks/homework5.pdf)| |
+| 6   | 3/12/2019 | [Jupyter](homeworks/homework6.ipynb), [PDF](homeworks/homework6.pdf)| |
 | 7   | 4/9/2019  | [Jupyter](homeworks/homework7.ipynb), [PDF](homeworks/homework7.pdf)| |
 | 8   | 4/16/2019 | [Jupyter](homeworks/homework8.ipynb), [PDF](homeworks/homework8.pdf)| |
 | 9   | 4/23/2019 | [Jupyter](homeworks/homework9.ipynb), [PDF](homeworks/homework9.pdf)| |

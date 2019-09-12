@@ -7,20 +7,20 @@
   [PDF](../../slides/4_4/18-Sequence_Models.pdf)
 * Notebooks
   - Language Model Datasets
-  	[Jupyter](../../slides/4_4/lang-model-dataset.ipynb), [PDF](../../slides/4_4/lang-model-dataset.pdf) 
+  	[Jupyter](../../slides/4_4/lang-model-dataset.ipynb), [PDF](../../slides/4_4/lang-model-dataset.pdf)
   - Language Model
-    [Jupyter](../../slides/4_4/lang-model.ipynb), [PDF](../../slides/4_4/lang-model.pdf) 
+    [Jupyter](../../slides/4_4/lang-model.ipynb), [PDF](../../slides/4_4/lang-model.pdf)
   - Sequence Model
-    [Jupyter](../../slides/4_4/sequence.ipynb), [PDF](../../slides/4_4/sequence.pdf) 
+    [Jupyter](../../slides/4_4/sequence.ipynb), [PDF](../../slides/4_4/sequence.pdf)
   - Recurrent Neural Network
-    [Jupyter](../../slides/4_4/rnn.ipynb), [PDF](../../slides/4_4/rnn.pdf) 
+    [Jupyter](../../slides/4_4/rnn.ipynb), [PDF](../../slides/4_4/rnn.pdf)
 
 ## Content
 
 * [Sequence Models](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/sequence.html)
 * [Language Models](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/lang-model.html)
 * [Recurrent Neural Networks](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/rnn.html)
-* [Text Preprocessing](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/lang-model-dataset.html)
+* [Text Preprocessing](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/text-preprocessing.html)
 
 ## Videos
 

@@ -20,10 +20,10 @@
 
 ## Content
 
-* [LeNet](http://en.diveintodeeplearning.org/chapter_convolutional-neural-networks/lenet.html)
-* [AlexNet](http://d2l.ai/chapter_convolutional-modern/alexnet.html)
-* [VGG](http://d2l.ai/chapter_convolutional-modern/vgg.html)
-* [NiN](http://d2l.ai/chapter_convolutional-modern/nin.html)
+* [LeNet](https://d2l.ai/chapter_convolutional-neural-networks/lenet.html)
+* [AlexNet](https://d2l.ai/chapter_modern-convolutional-neural-networks/alexnet.html)
+* [VGG](https://d2l.ai/chapter_modern-convolutional-neural-networks/vgg.html)
+* [NiN](https://d2l.ai/chapter_modern-convolutional-neural-networks/nin.html)
 
 ## Videos
 

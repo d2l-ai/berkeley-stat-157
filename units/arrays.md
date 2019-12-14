@@ -22,7 +22,7 @@ submission you will need to use Jupyter.
 
 ## Content
 
-* [Autograd](https://en.d2l.ai/chapter_crashcourse/autograd.html)
+* [Autograd](https://d2l.ai/chapter_preliminaries/autograd.html)
 
 ## Videos
 

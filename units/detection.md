@@ -21,12 +21,12 @@
 
 ## Content
 
-* [Object Detection and Bounding Boxes](http://d2l.ai/chapter_computer-vision/bounding-box.html)
-* [Anchor Boxes](http://d2l.ai/chapter_computer-vision/anchor.html)
-* [Multiscale Object Detection](http://d2l.ai/chapter_computer-vision/multiscale-object-detection.html)
-* [Object Detection Data Set (Pikachu)](http://d2l.ai/chapter_computer-vision/object-detection-dataset.html)
-* [Single Shot Multibox Detection (SSD)](http://d2l.ai/chapter_computer-vision/ssd.html)
-* [Region-based CNNs (R-CNNs)¶](http://d2l.ai/chapter_computer-vision/rcnn.html)
+* [Object Detection and Bounding Boxes](https://d2l.ai/chapter_computer-vision/bounding-box.html)
+* [Anchor Boxes](https://d2l.ai/chapter_computer-vision/anchor.html)
+* [Multiscale Object Detection](https://d2l.ai/chapter_computer-vision/multiscale-object-detection.html)
+* [Object Detection Data Set (Pikachu)](https://d2l.ai/chapter_computer-vision/object-detection-dataset.html)
+* [Single Shot Multibox Detection (SSD)](https://d2l.ai/chapter_computer-vision/ssd.html)
+* [Region-based CNNs (R-CNNs)](https://d2l.ai/chapter_computer-vision/rcnn.html)
 
 ## Vidoes
 

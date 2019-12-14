@@ -14,9 +14,9 @@
 
 ## Content
 
-* [Model Selection](http://d2l.ai/chapter_multilayer-perceptrons/underfit-overfit.html)
-* [Weight Decay](http://d2l.ai/chapter_multilayer-perceptrons/weight-decay.html)
-* [Dropout](http://d2l.ai/chapter_multilayer-perceptrons/dropout.html)
+* [Model Selection](https://d2l.ai/chapter_multilayer-perceptrons/underfit-overfit.html)
+* [Weight Decay](https://d2l.ai/chapter_multilayer-perceptrons/weight-decay.html)
+* [Dropout](https://d2l.ai/chapter_multilayer-perceptrons/dropout.html)
 
 ## Videos
 

@@ -18,8 +18,8 @@
 
 ## Extended Reading
 
-* [Probability and Statistics](http://en.diveintodeeplearning.org/chapter_crashcourse/probability.html)
-* [Naive Bayes](http://en.diveintodeeplearning.org/chapter_crashcourse/naive-bayes.html)
+* [Probability and Statistics](https://d2l.ai/chapter_preliminaries/probability.html)
+* [Naive Bayes](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/naive-bayes.html)
 <!-- * [Sampling](http://en.diveintodeeplearning.org/chapter_crashcourse/sampling.html) -->
 
 ## Videos

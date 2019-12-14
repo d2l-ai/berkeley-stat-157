@@ -4,6 +4,6 @@
 
 ## Content
 
-* [Network in Network](http://d2l.ai/chapter_convolutional-modern/nin.html
+* [Network in Network](http://d2l.ai/chapter_convolutional-modern/nin.html)
 
 ## Videos

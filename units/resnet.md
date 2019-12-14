@@ -20,9 +20,9 @@
 
 ## Content
 
-* [Network with Parallel Concatenations](http://d2l.ai/chapter_convolutional-modern/googlenet.html)
-* [Residual Networks](http://d2l.ai/chapter_convolutional-modern/resnet.html)
-* [Densely Connected Networks](http://d2l.ai/chapter_convolutional-modern/densenet.html)
+* [Network with Parallel Concatenations](https://d2l.ai/chapter_modern-convolutional-neural-networks/googlenet.html)
+* [Residual Networks](https://d2l.ai/chapter_modern-convolutional-neural-networks/resnet.html)
+* [Densely Connected Networks](https://d2l.ai/chapter_modern-convolutional-neural-networks/densenet.html)
 
 ## Videos
 

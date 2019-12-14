@@ -23,11 +23,11 @@ submission you will need to use Jupyter.
 
 ## Extended Reading
 
-* [Introduction to Deep Learning](http://d2l.ai/chapter_introduction/intro.html)
-* [Installation](http://d2l.ai/chapter_install/install.html)
-* [Linear Algebra](https://d2l.ai/chapter_crashcourse/linear-algebra.html)
-* [Using Jupyter Notebook](https://d2l.ai/chapter_appendix/jupyter.html)
-* [Using AWS to Run Code](https://d2l.ai/chapter_appendix/aws.html)
+* [Introduction to Deep Learning](https://d2l.ai/chapter_introduction/index.html)
+* [Installation](https://d2l.ai/chapter_installation/index.html)
+* [Linear Algebra](https://d2l.ai/chapter_preliminaries/linear-algebra.html)
+* [Using Jupyter Notebook](https://d2l.ai/chapter_appendix-tools-for-deep-learning/jupyter.html)
+* [Using AWS to Run Code](https://d2l.ai/chapter_appendix-tools-for-deep-learning/aws.html)
 
 ## Videos
 

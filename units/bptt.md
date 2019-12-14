@@ -4,8 +4,8 @@
 
 ## Content
 
-* [Truncated Backpropagation](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/bptt.html)
-* [Gated Recurrent Unit](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/gru.html)
-* [Long Short Term Memory](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/lstm.html)
+* [Truncated Backpropagation](https://d2l.ai/chapter_recurrent-neural-networks/bptt.html)
+* [Gated Recurrent Unit](https://d2l.ai/chapter_modern-recurrent-neural-networks/gru.html)
+* [Long Short Term Memory](https://d2l.ai/chapter_modern-recurrent-neural-networks/lstm.html)
 
 ## Videos

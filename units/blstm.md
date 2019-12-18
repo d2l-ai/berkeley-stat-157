@@ -17,9 +17,9 @@
 
 ## Content
 
-* [Deep Recurrent Neural Networks](https://d2l.ai/chapter_modern-recurrent-neural-networks/deep-rnn.html)
-* [Bidirectional RNNs](https://d2l.ai/chapter_modern-recurrent-neural-networks/bi-rnn.html)
-* [Beam Search](https://d2l.ai/chapter_modern-recurrent-neural-networks/beam-search.html)
+* [Deep Recurrent Neural Networks](https://d2l.ai/chapter_recurrent-modern/deep-rnn.html)
+* [Bidirectional RNNs](https://d2l.ai/chapter_recurrent-modern/bi-rnn.html)
+* [Beam Search](https://d2l.ai/chapter_recurrent-modern/beam-search.html)
 
 ## Videos
 

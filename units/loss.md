@@ -27,7 +27,7 @@ submission you will need to use Jupyter.
 ## Extended Reading
 
 * [Softmax Regression](https://d2l.ai/chapter_linear-networks/softmax-regression.html)
-* [Fashion MNIST](https://d2l.ai/chapter_linear-networks/fashion-mnist.html)
+* [Fashion MNIST](https://d2l.ai/chapter_linear-networks/image-classification-dataset.html)
 * [Softmax Regression from scratch](https://d2l.ai/chapter_linear-networks/softmax-regression-scratch.html)
 * [Softmax Regression - concise version](https://d2l.ai/chapter_linear-networks/softmax-regression-gluon.html)
 

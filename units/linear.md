@@ -19,7 +19,7 @@
 
 * [Linear Regression](https://d2l.ai/chapter_linear-networks/linear-regression.html）
 * [Linear Regression Implementation from Scratch](https://d2l.ai/chapter_linear-networks/linear-regression-scratch.html)
-* [Concise Implementation of Linear Regression](https://d2l.ai/chapter_linear-networks/linear-regression-gluon.html)
+* [Concise Implementation of Linear Regression](https://d2l.ai/chapter_linear-networks/linear-regression-concise.html)
 
 
 ## Videos

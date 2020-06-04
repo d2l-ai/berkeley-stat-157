@@ -20,9 +20,9 @@
 
 ## Content
 
-* [Multilayer Perceptron](http://en.diveintodeeplearning.org/chapter_multilayer-perceptrons/mlp.html)
-* [Multilayer Perceptron Implementation](http://en.diveintodeeplearning.org/chapter_multilayer-perceptrons/mlp-scratch.html)
-* [Multilayer Perceptron in Gluon](http://en.diveintodeeplearning.org/chapter_multilayer-perceptrons/mlp-gluon.html)
+* [Multilayer Perceptron](https://d2l.ai/chapter_multilayer-perceptrons/mlp.html)
+* [Multilayer Perceptron Implementation](https://d2l.ai/chapter_multilayer-perceptrons/mlp-scratch.html)
+* [Multilayer Perceptron in Gluon](https://d2l.ai/chapter_multilayer-perceptrons/mlp-concise.html)
 
 ## Videos
 

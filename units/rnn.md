@@ -24,7 +24,7 @@
 ## Content
 
 * [Building an RNN](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/rnn-scratch.html)
-* [Building an RNN in Gluon](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/rnn-gluon.html)
+* [Building an RNN in Gluon](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/rnn-concise.html)
 * [Backpropagation through Time](http://en.diveintodeeplearning.org/chapter_recurrent-neural-networks/bptt.html)
 
 ## Videos

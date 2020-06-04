@@ -25,7 +25,7 @@
 * [Asynchrony](http://d2l.ai/chapter_computational-performance/async-computation.html)
 * [Automatic Parallelization](http://d2l.ai/chapter_computational-performance/auto-parallelism.html)
 * [Multiple GPUs](http://d2l.ai/chapter_computational-performance/multiple-gpus.html)
-* [Multiple GPUs in Gluon](http://d2l.ai/chapter_computational-performance/multiple-gpus-gluon.html)
+* [Multiple GPUs in Gluon](http://d2l.ai/chapter_computational-performance/multiple-gpus-concise.html)
 
 ## Videos
 

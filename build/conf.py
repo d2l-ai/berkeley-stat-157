@@ -17,7 +17,7 @@ html_theme_options = {
         # The items in the navbar under the title, the format is
         # Name, Link, (keep True, ignore its meaning), font-awesome icon name (can be empty).
         # You can search all icons at https://fontawesome.com/icons?d=gallery
-        ('Textbook', 'https://en.diveintodeeplearning.org/', True, 'fas fa-book'),
+        ('Textbook', 'https://d2l.ai/', True, 'fas fa-book'),
         ('Video', 'https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW', True, 'fas fa-video'),
         ('Forum', 'https://discuss.mxnet.io/c/courses', True, 'fas fa-user-tie'),
         ('Github', 'https://github.com/diveintodeeplearning/berkeley-stat-157', True, 'fab fa-github'),

@@ -18,8 +18,8 @@
 
 ## Content
 
-* [Image Augmentation](http://en.diveintodeeplearning.org/chapter_computer-vision/image-augmentation.html)
-* [Fine Tuning](http://en.diveintodeeplearning.org/chapter_computer-vision/fine-tuning.html)
+* [Image Augmentation](http://d2l.ai/chapter_computer-vision/image-augmentation.html)
+* [Fine Tuning](http://d2l.ai/chapter_computer-vision/fine-tuning.html)
 * [Neural Style](http://d2l.ai/chapter_computer-vision/neural-style.html)
 
 ## Videos

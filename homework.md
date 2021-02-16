@@ -38,7 +38,7 @@ As we proceed, we'll be filling in details. In terms of solutions we'll take the
 liberty to reuse some of your submissions as reference solutions (unless you
 tell us otherwise).
 
-Instructors may request all the homework solutions by emailing rlhu at amazon dot com.
+Instructors may request all the homework solutions by using their working email (e.g., edu email) to contact rlhu at amazon dot com.
 
 | Set | Due date  | Problems | Solutions |
 |-----|-----------|----------|-----------|
